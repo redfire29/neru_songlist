@@ -2345,6 +2345,12 @@ ul li {
   }
 }
 
+@media (min-width: 768px) {
+  .md\:w-full {
+    width: 100%;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   @media (min-width: 1024px) {
     .dark\:lg\:hover\:\[paint-order\:markers\]:hover {
