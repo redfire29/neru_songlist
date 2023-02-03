@@ -16,10 +16,12 @@ const vm = new Vue({
       this.showSongArray = [];
       if (this.searchWord) {
         _.find(this.songListAll,(find) => {
-          if (find.match(new RegExp(this.searchWord, 'i'))) {
-            _.set(find, 'showDate', true);
-            this.showSongArray.push(find);
-          }
+          _.find(find.songList, (song) => {
+            if (song.songName.match(new RegExp(this.searchWord, 'i'))) {
+              _.set(find, 'showDate', true);
+              this.showSongArray.push(find);
+            }
+          })
         });
       } else {
         this.showSongArray = this.songListAll;
