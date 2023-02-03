@@ -29,5 +29,5 @@ html(lang='en')
           .song(v-for="song in get(songData, 'songList')", v-if="get(songData, 'showList') && get(song, 'showDate')")
             a(:href="get(song, 'songLink')" target='_blank')
               p
-                span {{get(song, 'songName')}}
+                span {{`${get(song, 'songName')} / ${get(song, 'singer')}`}}
     link(rel='stylesheet' href='style.css')
