@@ -1,5 +1,61 @@
 const arrayData = [
   {
+    date: "2022年1月1日",
+    streamName: "【新年歌枠】あけおめ！捏嚕陪泥悶過2022的第一天",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "Brave Shine",
+        "singer": "Aimer",
+        "songTime": "0:17:56",
+        "songLink": "https://www.youtube.com/watch?v=QRPRkPf8ziA&t=1076s"
+      },
+      {
+        "showDate": true,
+        "songName": "Flashlight",
+        "singer": "Jessie J",
+        "songTime": "0:30:43",
+        "songLink": "https://www.youtube.com/watch?v=QRPRkPf8ziA&t=1843s"
+      },
+      {
+        "showDate": true,
+        "songName": "歐若拉",
+        "singer": "張韶涵",
+        "songTime": "0:40:37",
+        "songLink": "https://www.youtube.com/watch?v=QRPRkPf8ziA&t=2437s"
+      },
+      {
+        "showDate": true,
+        "songName": "兩隻老虎",
+        "songTime": "0:49:52",
+        "songLink": "https://www.youtube.com/watch?v=QRPRkPf8ziA&t=2992s"
+      },
+      {
+        "showDate": true,
+        "songName": "Make You Feel My Love",
+        "singer": "Adele",
+        "songTime": "1:09:30",
+        "songLink": "https://www.youtube.com/watch?v=QRPRkPf8ziA&t=4170s"
+      },
+      {
+        "showDate": true,
+        "songName": "心電心",
+        "singer": "王心凌",
+        "songTime": "1:30:30",
+        "songLink": "https://www.youtube.com/watch?v=QRPRkPf8ziA&t=5430s"
+      },
+      {
+        "showDate": true,
+        "songName": "買你",
+        "singer": "魏如萱",
+        "songTime": "1:43:43",
+        "songLink": "https://www.youtube.com/watch?v=QRPRkPf8ziA&t=6223s"
+      }
+    ]
+  },
+  {
     date: "2021年12月23日",
     streamName: "【耶誕歌枠】提前過耶誕節辣～英語歌曲限定歌回",
     showList: true,
