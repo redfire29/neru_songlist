@@ -1,5 +1,710 @@
 const arrayData = [
   {
+    date: "2022年12月25日",
+    streamName: "【聖誕歌枠】2022最後一個直播！叮叮噹！叮叮噹！菱聲多響亮！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "Someone Like You",
+        "singer": "Adele",
+        "songTime": "0:16:17",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=977s"
+      },
+      {
+        "showDate": true,
+        "songName": "Trouble Is A Friend",
+        "singer": "Lenka",
+        "songTime": "0:30:45",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=1845s"
+      },
+      {
+        "showDate": true,
+        "songName": "Top Of The World",
+        "singer": "carpenters",
+        "songTime": "0:40:14",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=2414s"
+      },
+      {
+        "showDate": true,
+        "songName": "It's My Life",
+        "singer": "Bon Jovi",
+        "songTime": "0:49:10",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=2950s"
+      },
+      {
+        "showDate": true,
+        "songName": "Yellow",
+        "singer": "Coldplay",
+        "songTime": "0:58:59",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=3539s"
+      },
+      {
+        "showDate": true,
+        "songName": "Money, Money, Money",
+        "singer": "Abba",
+        "songTime": "1:08:43",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=4123s"
+      },
+      {
+        "showDate": true,
+        "songName": "City of Stars",
+        "singer": "Ryan Gosling, Emma Stone",
+        "songTime": "1:27:08",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=5228s"
+      },
+      {
+        "showDate": true,
+        "songName": "Mamma Mia",
+        "singer": "Abba",
+        "songTime": "1:33:17",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=5597s"
+      },
+      {
+        "showDate": true,
+        "songName": "Toxic",
+        "singer": "Britney Spears",
+        "songTime": "1:39:27",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=5967s"
+      },
+      {
+        "showDate": true,
+        "songName": "Call Me Maybe",
+        "singer": "Carly Rae Jepsen",
+        "songTime": "1:45:20",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=6320s"
+      },
+      {
+        "showDate": true,
+        "songName": "crushcrushcrush",
+        "singer": "Paramore",
+        "songTime": "1:51:17",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=6677s"
+      },
+      {
+        "showDate": true,
+        "songName": "Titanium",
+        "singer": "David Guetta",
+        "songTime": "2:01:15",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=7275s"
+      },
+      {
+        "showDate": true,
+        "songName": "Wrecking Ball",
+        "singer": "Miley Cyrus",
+        "songTime": "2:09:05",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=7745s"
+      },
+      {
+        "showDate": true,
+        "songName": "First Love",
+        "singer": "宇多田ヒカル",
+        "songTime": "2:17:26",
+        "songLink": "https://www.youtube.com/watch?v=phYDszcYAjk&t=8246s"
+      }
+    ]
+  },
+  {
+    date: "2022年11月24日",
+    streamName: "【耐久歌枠】一週年前夜祭耐久歌回！！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "KING",
+        "singer": "Kanaria",
+        "songTime": "0:07:10",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=430s"
+      },
+      {
+        "showDate": true,
+        "songName": "I beg you",
+        "singer": "Aimer",
+        "songTime": "0:10:45",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=645s"
+      },
+      {
+        "showDate": true,
+        "songName": "レディメイド",
+        "singer": "Ado",
+        "songTime": "0:17:33",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=1053s"
+      },
+      {
+        "showDate": true,
+        "songName": "無人熟識",
+        "singer": "張清芳",
+        "songTime": "0:24:22",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=1462s"
+      },
+      {
+        "showDate": true,
+        "songName": "POP TEAM EPIC",
+        "singer": "上坂すみれ",
+        "songTime": "0:30:24",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=1824s"
+      },
+      {
+        "showDate": true,
+        "songName": "愛拼才會贏",
+        "singer": "葉啟田",
+        "songTime": "0:37:51",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=2271s"
+      },
+      {
+        "showDate": true,
+        "songName": "七彩的微風",
+        "singer": "李明幸",
+        "songTime": "0:43:19",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=2599s"
+      },
+      {
+        "showDate": true,
+        "songName": "God knows",
+        "singer": "平野綾",
+        "songTime": "0:49:37",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=2977s"
+      },
+      {
+        "showDate": true,
+        "songName": "ウタカタララバイ",
+        "singer": "Ado",
+        "songTime": "0:56:24",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=3384s"
+      },
+      {
+        "showDate": true,
+        "songName": "ドラえもんのうた",
+        "singer": "大杉久美子",
+        "songTime": "1:01:37",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=3697s"
+      },
+      {
+        "showDate": true,
+        "songName": "光年之外",
+        "singer": "鄧紫棋",
+        "songTime": "1:06:44",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=4004s"
+      },
+      {
+        "showDate": true,
+        "songName": "うっせぇわ",
+        "singer": "Ado",
+        "songTime": "1:12:15",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=4335s"
+      },
+      {
+        "showDate": true,
+        "songName": "稻香",
+        "singer": "周杰倫",
+        "songTime": "1:45:05",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=6305s"
+      },
+      {
+        "showDate": true,
+        "songName": "紅豆",
+        "singer": "王菲",
+        "songTime": "1:50:03",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=6603s"
+      },
+      {
+        "showDate": true,
+        "songName": "明け星",
+        "singer": "LiSA",
+        "songTime": "1:56:10",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=6970s"
+      },
+      {
+        "showDate": true,
+        "songName": "心花開",
+        "singer": "李千娜",
+        "songTime": "2:01:43",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=7303s"
+      },
+      {
+        "showDate": true,
+        "songName": "含淚跳恰恰",
+        "singer": "謝金燕",
+        "songTime": "2:06:49",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=7609s"
+      },
+      {
+        "showDate": true,
+        "songName": "歐若拉",
+        "singer": "張韶涵",
+        "songTime": "2:11:08",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=7868s"
+      },
+      {
+        "showDate": true,
+        "songName": "永遠のあくる日",
+        "singer": "Ado",
+        "songTime": "2:16:21",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=8181s"
+      },
+      {
+        "showDate": true,
+        "songName": "Chandelier",
+        "singer": "Sia",
+        "songTime": "2:21:39",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=8499s"
+      },
+      {
+        "showDate": true,
+        "songName": "ラブカ",
+        "singer": "Ado",
+        "songTime": "2:26:47",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=8807s"
+      },
+      {
+        "showDate": true,
+        "songName": "マリーゴールド",
+        "singer": "あいみょん",
+        "songTime": "2:31:37",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=9097s"
+      },
+      {
+        "showDate": true,
+        "songName": "ハルノヒ",
+        "singer": "あいみょん",
+        "songTime": "2:38:00",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=9480s"
+      },
+      {
+        "showDate": true,
+        "songName": "Toxic",
+        "singer": "Britney Spears",
+        "songTime": "2:44:50",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=9890s"
+      },
+      {
+        "showDate": true,
+        "songName": "愛情恰恰",
+        "singer": "陳小雲",
+        "songTime": "2:51:42",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=10302s"
+      },
+      {
+        "showDate": true,
+        "songName": "ギラギラ",
+        "singer": "Ado",
+        "songTime": "3:20:50",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=12050s"
+      },
+      {
+        "showDate": true,
+        "songName": "Ref:rain",
+        "singer": "Aimer",
+        "songTime": "3:26:58",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=12418s"
+      },
+      {
+        "showDate": true,
+        "songName": "私は最強",
+        "singer": "Ado",
+        "songTime": "3:34:56",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=12896s"
+      },
+      {
+        "showDate": true,
+        "songName": "踮起腳尖愛",
+        "singer": "洪佩瑜",
+        "songTime": "3:39:58",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=13198s"
+      },
+      {
+        "showDate": true,
+        "songName": "Wrecking Ball",
+        "singer": "Miley Cyrus",
+        "songTime": "3:46:28",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=13588s"
+      },
+      {
+        "showDate": true,
+        "songName": "bad guy",
+        "singer": "Billie Eilish",
+        "songTime": "3:51:30",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=13890s"
+      },
+      {
+        "showDate": true,
+        "songName": "Bad Romance",
+        "singer": "Lady Gaga",
+        "songTime": "3:57:37",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=14257s"
+      },
+      {
+        "showDate": true,
+        "songName": "丸の内サディスティック",
+        "singer": "椎名林檎",
+        "songTime": "4:03:40",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=14620s"
+      },
+      {
+        "showDate": true,
+        "songName": "GLAMOROUS SKY",
+        "singer": "NANA",
+        "songTime": "4:09:08",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=14948s"
+      },
+      {
+        "showDate": true,
+        "songName": "假面的告白",
+        "singer": "蔡依林",
+        "songTime": "4:15:10",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=15310s"
+      },
+      {
+        "showDate": true,
+        "songName": "風のゆくえ",
+        "singer": "Ado",
+        "songTime": "4:20:34",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=15634s"
+      },
+      {
+        "showDate": true,
+        "songName": "暖心",
+        "singer": "郁可唯",
+        "songTime": "4:26:41",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=16001s"
+      },
+      {
+        "showDate": true,
+        "songName": "我想我不會愛你",
+        "singer": "田馥甄",
+        "songTime": "4:32:28",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=16348s"
+      },
+      {
+        "showDate": true,
+        "songName": "空の青さを知る人よ",
+        "singer": "あいみょん",
+        "songTime": "4:52:30",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=17550s"
+      },
+      {
+        "showDate": true,
+        "songName": "Nobody's Home",
+        "singer": "Avril Lavigne",
+        "songTime": "4:58:23",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=17903s"
+      },
+      {
+        "showDate": true,
+        "songName": "歌舞伎町の女王",
+        "singer": "椎名林檎",
+        "songTime": "5:02:57",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=18177s"
+      },
+      {
+        "showDate": true,
+        "songName": "You should see me in a crown",
+        "singer": "Billie Eilish",
+        "songTime": "5:07:09",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=18429s"
+      },
+      {
+        "showDate": true,
+        "songName": "匿名的好友",
+        "singer": "楊丞琳",
+        "songTime": "5:11:09",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=18669s"
+      },
+      {
+        "showDate": true,
+        "songName": "有你的快樂",
+        "singer": "王若琳",
+        "songTime": "5:17:17",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=19037s"
+      },
+      {
+        "showDate": true,
+        "songName": "You Belong With Me",
+        "singer": "Taylor Swift",
+        "songTime": "5:22:12",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=19332s"
+      },
+      {
+        "showDate": true,
+        "songName": "会いたくて",
+        "singer": "Ado",
+        "songTime": "5:27:42",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=19662s"
+      },
+      {
+        "showDate": true,
+        "songName": "Six Feet Under",
+        "singer": "Billie Eilish",
+        "songTime": "5:33:27",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=20007s"
+      },
+      {
+        "showDate": true,
+        "songName": "舞女",
+        "singer": "陳小雲",
+        "songTime": "5:39:21",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=20361s"
+      },
+      {
+        "showDate": true,
+        "songName": "就是愛",
+        "singer": "蔡依林",
+        "songTime": "5:44:25",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=20665s"
+      },
+      {
+        "showDate": true,
+        "songName": "我只在乎你",
+        "singer": "鄧麗君",
+        "songTime": "5:49:25",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=20965s"
+      },
+      {
+        "showDate": true,
+        "songName": "Make You Feel My Love",
+        "singer": "Adele",
+        "songTime": "5:54:51",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=21291s"
+      },
+      {
+        "showDate": true,
+        "songName": "My Strange Addiction",
+        "singer": "Billie Eilish",
+        "songTime": "6:00:00",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=21600s"
+      },
+      {
+        "showDate": true,
+        "songName": "超跑情人夢",
+        "singer": "卜學亮",
+        "songTime": "6:05:19",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=21919s"
+      },
+      {
+        "showDate": true,
+        "songName": "買你",
+        "singer": "魏如萱",
+        "songTime": "6:10:22",
+        "songLink": "https://www.youtube.com/watch?v=a-3eX6AnZQ0&t=22222s"
+      }
+    ]
+  },
+  {
+    date: "2022年11月11日",
+    streamName: "【歌枠】111年11月11日晚上11點ㄉ一個字歌回！錯過再等一千年！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "戀",
+        "singer": "星野源",
+        "songTime": "0:18:56",
+        "songLink": "https://www.youtube.com/watch?v=hfeO43FPZ_A&t=1136s"
+      },
+      {
+        "showDate": true,
+        "songName": "虹 Niji",
+        "singer": "菅田将暉 Masaki Suda",
+        "songTime": "0:29:38",
+        "songLink": "https://www.youtube.com/watch?v=hfeO43FPZ_A&t=1778s"
+      },
+      {
+        "showDate": true,
+        "songName": "魚 The Edge",
+        "singer": "陳綺貞 Cheer Chen",
+        "songTime": "0:37:24",
+        "songLink": "https://www.youtube.com/watch?v=hfeO43FPZ_A&t=2244s"
+      },
+      {
+        "showDate": true,
+        "songName": "糸",
+        "singer": "中島みゆき",
+        "songTime": "0:47:00",
+        "songLink": "https://www.youtube.com/watch?v=hfeO43FPZ_A&t=2820s"
+      },
+      {
+        "showDate": true,
+        "songName": "炎",
+        "singer": "LiSA",
+        "songTime": "0:58:25",
+        "songLink": "https://www.youtube.com/watch?v=hfeO43FPZ_A&t=3505s"
+      },
+      {
+        "showDate": true,
+        "songName": "我",
+        "singer": "蔡依林 Jolin Tsai",
+        "songTime": "1:20:20",
+        "songLink": "https://www.youtube.com/watch?v=hfeO43FPZ_A&t=4820s"
+      },
+      {
+        "showDate": true,
+        "songName": "踊",
+        "singer": "Ado",
+        "songTime": "1:33:41",
+        "songLink": "https://www.youtube.com/watch?v=hfeO43FPZ_A&t=5621s"
+      }
+    ]
+  },
+  {
+    date: "2022年11月6日",
+    streamName: "【歌枠】七七七七七七千訂閱慶祝歌回來啦！！！ 歌回結束前有小小的重大告知！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "覺醒",
+        "singer": "Superfly",
+        "songTime": "0:04:32",
+        "songLink": "https://www.youtube.com/watch?v=z7efuJdQccg&t=272s"
+      },
+      {
+        "showDate": true,
+        "songName": "Firework",
+        "singer": "Katy Perry",
+        "songTime": "0:16:02",
+        "songLink": "https://www.youtube.com/watch?v=z7efuJdQccg&t=962s"
+      },
+      {
+        "showDate": true,
+        "songName": "All About That Bass",
+        "singer": "Meghan Trainor",
+        "songTime": "0:28:02",
+        "songLink": "https://www.youtube.com/watch?v=z7efuJdQccg&t=1682s"
+      },
+      {
+        "showDate": true,
+        "songName": "如果有如果",
+        "singer": "鄧福如 AFÜ",
+        "songTime": "0:36:30",
+        "songLink": "https://www.youtube.com/watch?v=z7efuJdQccg&t=2190s"
+      },
+      {
+        "showDate": true,
+        "songName": "プラチナ",
+        "singer": "坂本真綾",
+        "songTime": "0:45:33",
+        "songLink": "https://www.youtube.com/watch?v=z7efuJdQccg&t=2733s"
+      },
+      {
+        "showDate": true,
+        "songName": "雙棲動物",
+        "singer": "蔡健雅",
+        "songTime": "0:53:28",
+        "songLink": "https://www.youtube.com/watch?v=z7efuJdQccg&t=3208s"
+      },
+      {
+        "showDate": true,
+        "songName": "ただ君に晴れ",
+        "singer": "ヨルシカ",
+        "songTime": "1:09:17",
+        "songLink": "https://www.youtube.com/watch?v=z7efuJdQccg&t=4157s"
+      }
+    ]
+  },
+  {
+    date: "2022年10月7日",
+    streamName: "【歌枠】捏嚕首次酒吧駐唱初體驗！歡迎一起來小酌小酌聽聽歌",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "Fly Me to the Moon",
+        "singer": "Olivia Ong",
+        "songTime": "0:07:24",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=444s"
+      },
+      {
+        "showDate": true,
+        "songName": "Wish You Were Gay",
+        "singer": "Billie Eilish",
+        "songTime": "0:14:20",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=860s"
+      },
+      {
+        "showDate": true,
+        "songName": "My future",
+        "singer": "Billie Eilish",
+        "songTime": "0:24:25",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=1465s"
+      },
+      {
+        "showDate": true,
+        "songName": "陪你過假日",
+        "singer": "Leo王",
+        "songTime": "0:30:02",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=1802s"
+      },
+      {
+        "showDate": true,
+        "songName": "有你的快樂",
+        "singer": "王若琳",
+        "songTime": "0:35:14",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=2114s"
+      },
+      {
+        "showDate": true,
+        "songName": "残酷な天使のテーゼ",
+        "singer": "高橋洋子",
+        "songTime": "0:40:38",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=2438s"
+      },
+      {
+        "showDate": true,
+        "songName": "God knows",
+        "singer": "平野綾",
+        "songTime": "0:46:32",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=2792s"
+      },
+      {
+        "showDate": true,
+        "songName": "我還年輕 我還年輕",
+        "singer": "老王樂隊",
+        "songTime": "0:52:14",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=3134s"
+      },
+      {
+        "showDate": true,
+        "songName": "無人熟識",
+        "singer": "張清芳",
+        "songTime": "1:00:24",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=3624s"
+      },
+      {
+        "showDate": true,
+        "songName": "買你",
+        "singer": "魏如萱",
+        "songTime": "1:10:55",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=4255s"
+      },
+      {
+        "showDate": true,
+        "songName": "Make Me Wanna Die",
+        "singer": "The Pretty Reckless",
+        "songTime": "1:16:32",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=4592s"
+      },
+      {
+        "showDate": true,
+        "songName": "Money, Money, Money",
+        "singer": "Abba",
+        "songTime": "1:22:06",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=4926s"
+      },
+      {
+        "showDate": true,
+        "songName": "夢一場",
+        "singer": "那英",
+        "songTime": "1:27:40",
+        "songLink": "https://www.youtube.com/watch?v=kPbtSA3Vcsw&t=5260s"
+      },
+    ]
+  },
+  {
     date: "2022年10月7日",
     streamName: "【歌枠】遲來ㄉ六千訂閱慶祝歌回！！！",
     showList: true,
