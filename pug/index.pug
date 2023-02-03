@@ -20,9 +20,9 @@ html(lang='en')
           p Mao
       .serchbar
         input(type='text' v-model='searchWord')
-        div.search(@click='SearchSong('songName')')
+        div.search(@click="SearchSong('songName')")
           p Search Song
-        div.search(@click='SearchSong('singer')')
+        div.search(@click="SearchSong('singer')")
           p Search Singer
       .songlist
         .list(v-for='songData in showSongArray')
