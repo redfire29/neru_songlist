@@ -20,6 +20,7 @@ p {
 }
 .songlist .list .dateword {
   background: #ad9cd1;
+  border-bottom: 1px solid #302644;
   color: #261d38;
   padding: 5px;
   font-size: 22px;
