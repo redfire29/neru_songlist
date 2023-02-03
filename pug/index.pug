@@ -32,10 +32,11 @@ html(lang='en')
           p 蘋果狗茶-apple tea
       .serchbar.mb-2
         input(class="border-solid border-[1px]", type='text', v-model='searchWord')
-        div.search(@click="SearchSong('songName')")
-          p Search Song
-        div.search(@click="SearchSong('singer')")
-          p Search Singer
+        div(class="inline-block")
+          div.search(@click="SearchSong('songName')")
+            p Search Song
+          div.search(@click="SearchSong('singer')")
+            p Search Singer
       .songlist
         .list(v-for='songData in showSongArray')
           .dateword(v-if="get(songData, 'showDate')", @click="shList(songData)")
