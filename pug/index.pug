@@ -12,7 +12,7 @@ html(lang='en')
     script(src='pagejs.js')
   body
     #app
-      .timetaglist
+      .timetaglist.border-solid.border-2
         h1 感謝時間軸標記：
         .taglist
           p 雨宮沙耶花
@@ -37,3 +37,4 @@ html(lang='en')
               p
                 span {{`${get(song, 'songName')} / ${get(song, 'singer')}`}}
     link(rel='stylesheet' href='style.css')
+    link(rel='stylesheet' href='tailcss.css')
