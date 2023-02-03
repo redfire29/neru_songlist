@@ -20,7 +20,7 @@ html(lang='en')
         .list(v-for='songData in showSongArray')
           .dateword(v-if="get(songData, 'showDate')", @click="shList(songData)")
             p {{`${get(songData, 'streamName')} - ${get(songData, 'date')}`}}
-          .song(v-for="song in get(songData, 'songList')", v-if="get(songData, 'showList')")
+          .song(v-for="song in get(songData, 'songList')", v-if="get(songData, 'showList') && get(song, 'showDate')")
             a(:href="get(song, 'songLink')" target='_blank')
               p
                 span {{get(song, 'songName')}}

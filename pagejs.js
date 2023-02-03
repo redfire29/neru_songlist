@@ -19,6 +19,7 @@ const vm = new Vue({
           _.find(find.songList, (song) => {
             if (song.songName.match(new RegExp(this.searchWord, 'i'))) {
               _.set(find, 'showDate', true);
+              _.set(song, 'showDate', true);
               this.showSongArray.push(find);
             }
           })
@@ -31,6 +32,9 @@ const vm = new Vue({
   mounted() {
     _.forEach(this.songListArray, (v, i) => {
       _.set(v, '[0]showDate', true);
+      _.forEach(v.songList, (song) => {
+        _.set(song, 'showDate', true);
+      })
       this.songListAll = _.concat(this.songListAll, v);
     })
     this.showSongArray = this.songListAll;
