@@ -13,7 +13,7 @@ const vm = new Vue({
       this.showSongArray = [];
       if (this.searchWord) {
         _.find(this.songListAll,(find) => {
-          if (find.songName.toLowerCase().indexOf(this.searchWord.toLowerCase()) > -1) {
+          if (find.match(new RegExp(this.searchWord, 'i'))) {
             _.set(find, 'showDate', true);
             this.showSongArray.push(find);
           }
