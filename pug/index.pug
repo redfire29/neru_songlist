@@ -31,8 +31,8 @@ html(lang='en')
           p 管理員伯伯
           p 蘋果狗茶-apple tea
       .serchbar.mb-2
-        input(class="border-solid border-[1px]", type='text', v-model='searchWord')
-        div(class="inline-block")
+        input(class="border-solid border-[1px] w-1/2", type='text', v-model='searchWord')
+        div(class="inline-block w-1/2")
           div.search(@click="SearchSong('songName')")
             p Search Song
           div.search(@click="SearchSong('singer')")
