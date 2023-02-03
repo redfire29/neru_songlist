@@ -199,9 +199,7 @@ const arrayData = [
           songLink: "https://www.youtube.com/watch?v=bEiGy1POyYY&t=3423s"
         },
       ],
-    }
-  ],
-  [
+    },
     {
       date: "2021年11月26日",
       streamName: "【初配信】夜幕降臨! 歡迎來到ネル的晚宴✝ | 闇音ネル",
