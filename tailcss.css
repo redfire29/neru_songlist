@@ -765,6 +765,10 @@ video {
   display: none;
 }
 
+.max-w-screen-md {
+  max-width: 768px;
+}
+
 .flex-shrink {
   flex-shrink: 1;
 }
@@ -1574,6 +1578,10 @@ video {
   border-width: 2px;
 }
 
+.border-\[1px\] {
+  border-width: 1px;
+}
+
 .border {
   border-width: 1px;
 }
@@ -1743,6 +1751,10 @@ video {
      object-fit: scale-down;
 }
 
+.p-1 {
+  padding: 0.25rem;
+}
+
 .text-left {
   text-align: left;
 }
@@ -1797,6 +1809,16 @@ video {
 
 .align-super {
   vertical-align: super;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
 }
 
 .font-bold {

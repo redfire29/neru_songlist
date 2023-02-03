@@ -11,9 +11,9 @@ html(lang='en')
     script(src='array.js')
     script(src='pagejs.js')
   body
-    #app
-      .timetaglist.border-solid.border-2.mb-1
-        h1 感謝時間軸標記：
+    #app(class="max-w-screen-md")
+      .timetaglist.border-solid.border-2.mb-1.p-1
+        h1.text-2xl 感謝時間軸標記：
         .taglist
           p 雨宮沙耶花
           p 哈哈捏嚕我阿姐啦
@@ -23,7 +23,7 @@ html(lang='en')
           p 管理員伯伯
           p 蘋果狗茶-apple tea
       .serchbar.mb-2
-        input(type='text' v-model='searchWord')
+        input(class="border-solid border-[1px]", type='text', v-model='searchWord')
         div.search(@click="SearchSong('songName')")
           p Search Song
         div.search(@click="SearchSong('singer')")
@@ -31,7 +31,8 @@ html(lang='en')
       .songlist
         .list(v-for='songData in showSongArray')
           .dateword(v-if="get(songData, 'showDate')", @click="shList(songData)")
-            p {{`${get(songData, 'streamName')} - ${get(songData, 'date')}`}}
+            p {{get(songData, 'streamName')}}
+            p.text-xl {{get(songData, 'date')}}
           .song(v-for="song in get(songData, 'songList')", v-if="get(songData, 'showList') && get(song, 'showDate')")
             a(:href="get(song, 'songLink')" target='_blank')
               p
