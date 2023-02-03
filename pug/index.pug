@@ -20,8 +20,10 @@ html(lang='en')
           p Mao
       .serchbar
         input(type='text' v-model='searchWord')
-        div.search(@click='SearchSong()')
-          p Search
+        div.search(@click='SearchSong('songName')')
+          p Search Song
+        div.search(@click='SearchSong('singer')')
+          p Search Singer
       .songlist
         .list(v-for='songData in showSongArray')
           .dateword(v-if="get(songData, 'showDate')", @click="shList(songData)")
