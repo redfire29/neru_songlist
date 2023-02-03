@@ -1,6 +1,68 @@
 const arrayData = [
   [
     {
+      date: "2021年12月4日",
+      streamName: "【歌枠】 明天要考日檢只好靠歌唱學習法了！！！只有日文歌的日文歌回",
+      showList: true,
+      showDate: true,
+      songList: [
+        {
+          showDate: true,
+          songName: "GLAMOROUS SKY / 中島美嘉",
+          songTime: "0:08:08",
+          songLink: "https://www.youtube.com/watch?v=lb7FiQEIUlE&t=488s"
+        },
+        {
+          showDate: true,
+          songName: "Ref:rain / Aimer",
+          songTime: "0:15:27",
+          songLink: "https://www.youtube.com/watch?v=lb7FiQEIUlE&t=927s"
+        },
+        {
+          showDate: true,
+          songName: "ドラえもんのうた / 大杉久美子",
+          songTime: "0:23:27",
+          songLink: "https://www.youtube.com/watch?v=lb7FiQEIUlE&t=1407s"
+        },
+        {
+          showDate: true,
+          songName: "マリーゴールド / あいみょん",
+          songTime: "0:31:00",
+          songLink: "https://www.youtube.com/watch?v=lb7FiQEIUlE&t=1860s"
+        },
+        {
+          showDate: true,
+          songName: "Plastic Love / 竹内まりや",
+          songTime: "0:37:59",
+          songLink: "https://www.youtube.com/watch?v=lb7FiQEIUlE&t=2279s"
+        },
+        {
+          showDate: true,
+          songName: "桃色片想い / 松浦亜弥",
+          songTime: "0:45:25",
+          songLink: "https://www.youtube.com/watch?v=lb7FiQEIUlE&t=2725s"
+        },
+        {
+          showDate: true,
+          songName: "ラブか / Ado",
+          songTime: "0:53:22",
+          songLink: "https://www.youtube.com/watch?v=lb7FiQEIUlE&t=3202s"
+        },
+        {
+          showDate: true,
+          songName: "北国の春 / 千昌夫",
+          songTime: "0:59:41",
+          songLink: "https://www.youtube.com/watch?v=lb7FiQEIUlE&t=3581s"
+        },
+        {
+          showDate: true,
+          songName: "God knows / 平野綾",
+          songTime: "1:09:55",
+          songLink: "https://www.youtube.com/watch?v=lb7FiQEIUlE&t=4195s"
+        },
+      ]
+    },
+    {
       date: "2021年11月28日",
       streamName: "【突發雜談】 ✞Trying NOT to speak Chinese in a half hour/30分中国語禁止",
       showList: true,
