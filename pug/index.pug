@@ -17,10 +17,10 @@ html(lang='en')
         div.search(@click='SearchSong()')
           p Search
       .songlist
-        .list(v-for='song in showSongArray')
-          .dateword(v-if="get(song, 'showDate')")
-            p {{get(song, 'date')}}
-          .song
+        .list(v-for='songData in showSongArray')
+          .dateword(v-if="get(songData, 'showDate')")
+            p {{`${get(songData, 'streamName')} - ${get(songData, 'date')}`}}
+          .song(v-for="song in get(songData, 'songList')")
             a(:href="get(song, 'songLink')" target='_blank')
               p
                 span {{get(song, 'songName')}}
