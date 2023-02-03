@@ -27,6 +27,7 @@ const vm = new Vue({
       } else {
         this.showSongArray = this.songListAll;
       }
+      console.log(this.showSongArray, 'showSongArray');
     },
   },
   mounted() {
