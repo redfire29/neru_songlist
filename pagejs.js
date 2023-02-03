@@ -28,6 +28,12 @@ const vm = new Vue({
         });
       } else {
         this.showSongArray = this.songListAll;
+        _.find(this.showSongArray,(find) => {
+          _.set(find, 'showDate', true);
+          _.find(find.songList, (song) => {
+            _.set(song, 'showDate', true);
+          })
+        });
       }
       console.log(this.showSongArray, 'showSongArray');
     },
