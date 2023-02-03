@@ -21,6 +21,8 @@ const vm = new Vue({
               _.set(find, 'showDate', true);
               _.set(song, 'showDate', true);
               this.showSongArray.push(find);
+            } else {
+              _.set(song, 'showDate', false);
             }
           })
         });
