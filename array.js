@@ -1,5 +1,247 @@
 const arrayData = [
   {
+    date: "2022年10月7日",
+    streamName: "【歌枠】遲來ㄉ六千訂閱慶祝歌回！！！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "椎名林檎",
+        "singer": "罪と罰",
+        "songTime": "0:10:53",
+        "songLink": "https://www.youtube.com/watch?v=kpVBbXoTQHo&t=653s"
+      },
+      {
+        "showDate": true,
+        "songName": "私は最強",
+        "singer": "Ado",
+        "songTime": "20:46",
+        "songLink": "https://www.youtube.com/watch?v=kpVBbXoTQHo&t=1246s"
+      },
+      {
+        "showDate": true,
+        "songName": "ふゆびより",
+        "singer": "佐々木恵梨",
+        "songTime": "0:29:10",
+        "songLink": "https://www.youtube.com/watch?v=kpVBbXoTQHo&t=1750s"
+      },
+      {
+        "showDate": true,
+        "songName": "あいみょん",
+        "singer": "ハルノヒ",
+        "songTime": "0:38:17",
+        "songLink": "https://www.youtube.com/watch?v=kpVBbXoTQHo&t=2297s"
+      },
+      {
+        "showDate": true,
+        "songName": "Taylor Swift",
+        "singer": "I knew you were trouble",
+        "songTime": "0:46:39",
+        "songLink": "https://www.youtube.com/watch?v=kpVBbXoTQHo&t=2799s"
+      },
+      {
+        "showDate": true,
+        "songName": "Paramore",
+        "singer": "still into you",
+        "songTime": "0:53:43",
+        "songLink": "https://www.youtube.com/watch?v=kpVBbXoTQHo&t=3223s"
+      },
+      {
+        "showDate": true,
+        "songName": "白安",
+        "singer": "是什麼讓我遇見這樣的你",
+        "songTime": "0:59:15",
+        "songLink": "https://www.youtube.com/watch?v=kpVBbXoTQHo&t=3555s"
+      }
+    ]
+  },
+  {
+    date: "2022年9月25日",
+    streamName: "【歌枠】第一次帶著牙套唱歌...主題就叫牙套歌回可以嗎？？？",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "裸の心",
+        "singer": "あいみょん",
+        "songTime": "0:15:04",
+        "songLink": "https://www.youtube.com/watch?v=c122PGkzOcM&t=904s"
+      },
+      {
+        "showDate": true,
+        "songName": "My Medicine",
+        "singer": "The Pretty Reckless",
+        "songTime": "0:25:00",
+        "songLink": "https://www.youtube.com/watch?v=c122PGkzOcM&t=1500s"
+      },
+      {
+        "showDate": true,
+        "songName": "七上八下",
+        "singer": "蔡依林",
+        "songTime": "0:32:06",
+        "songLink": "https://www.youtube.com/watch?v=c122PGkzOcM&t=1926s"
+      },
+      {
+        "showDate": true,
+        "songName": "好膽你就來",
+        "singer": "張惠妹 A-Mei",
+        "songTime": "0:58:32",
+        "songLink": "https://www.youtube.com/watch?v=c122PGkzOcM&t=3512s"
+      },
+      {
+        "showDate": true,
+        "songName": "MIT",
+        "singer": "阿密特│張惠妹 A",
+        "songTime": "1:12:31",
+        "songLink": "https://www.youtube.com/watch?v=c122PGkzOcM&t=4351s"
+      },
+      {
+        "showDate": true,
+        "songName": "追追追",
+        "singer": "黃妃 Huang Fei",
+        "songTime": "1:19:57",
+        "songLink": "https://www.youtube.com/watch?v=c122PGkzOcM&t=4797s"
+      },
+      {
+        "showDate": true,
+        "songName": "COPYCAT",
+        "singer": "Billie Eilish",
+        "songTime": "1:26:50",
+        "songLink": "https://www.youtube.com/watch?v=c122PGkzOcM&t=5210s"
+      },
+      {
+        "showDate": true,
+        "songName": "Someone Like You",
+        "singer": "Adele",
+        "songTime": "1:31:28",
+        "songLink": "https://www.youtube.com/watch?v=c122PGkzOcM&t=5488s"
+      },
+      {
+        "showDate": true,
+        "songName": "風のゆくえ",
+        "singer": "Ado",
+        "songTime": "1:41:19",
+        "songLink": "https://www.youtube.com/watch?v=c122PGkzOcM&t=6079s"
+      }
+    ]
+  },
+  {
+    date: "2022年9月11日",
+    streamName: "【#2022清歌踏月】歌回接力賽～捏嚕陪你過中秋連假最後一天！！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "fly me to the moon",
+        "singer": "Frank Sinatra",
+        "songTime": "0:03:58",
+        "songLink": "https://www.youtube.com/watch?v=PYSsxqiFrF4&t=238s"
+      },
+      {
+        "showDate": true,
+        "songName": "I Beg You",
+        "singer": "Aimer",
+        "songTime": "0:09:39",
+        "songLink": "https://www.youtube.com/watch?v=PYSsxqiFrF4&t=579s"
+      },
+      {
+        "showDate": true,
+        "songName": "Miss Nothing ",
+        "singer": "The Pretty Reckless",
+        "songTime": "0:16:35",
+        "songLink": "https://www.youtube.com/watch?v=PYSsxqiFrF4&t=995s"
+      },
+      {
+        "showDate": true,
+        "songName": "阿修羅醬",
+        "singer": "Ado",
+        "songTime": "0:23:31",
+        "songLink": "https://www.youtube.com/watch?v=PYSsxqiFrF4&t=1411s"
+      },
+      {
+        "showDate": true,
+        "songName": "月亮代表我的心",
+        "singer": "鄧麗君",
+        "songTime": "0:29:03",
+        "songLink": "https://www.youtube.com/watch?v=PYSsxqiFrF4&t=1743s"
+      }
+    ]
+  },
+  {
+    date: "2022年9月5日",
+    streamName: "【歌枠】颱風終於走啦～中文歌限定歌回💜",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "花花世界",
+        "singer": " 田馥甄 Hebe Tien",
+        "songTime": "0:09:36",
+        "songLink": "https://www.youtube.com/watch?v=X-TVIp7_BAs&t=576s"
+      },
+      {
+        "showDate": true,
+        "songName": "紅豆",
+        "singer": " 王菲 Faye Wong",
+        "songTime": "0:18:04",
+        "songLink": "https://www.youtube.com/watch?v=X-TVIp7_BAs&t=1084s"
+      },
+      {
+        "showDate": true,
+        "songName": "朋友",
+        "singer": " 周華健 Wakin Chau",
+        "songTime": "0:31:21",
+        "songLink": "https://www.youtube.com/watch?v=X-TVIp7_BAs&t=1881s"
+      },
+      {
+        "showDate": true,
+        "songName": "飄洋過海來看你",
+        "singer": " 金智娟 WaWa",
+        "songTime": "0:51:18",
+        "songLink": "https://www.youtube.com/watch?v=X-TVIp7_BAs&t=3078s"
+      },
+      {
+        "showDate": true,
+        "songName": "心願便利貼",
+        "singer": " 元若藍 Shorty Yuan",
+        "songTime": "1:03:42",
+        "songLink": "https://www.youtube.com/watch?v=X-TVIp7_BAs&t=3822s"
+      },
+      {
+        "showDate": true,
+        "songName": "告白氣球",
+        "singer": " 周杰倫 Jay Chou",
+        "songTime": "1:24:47",
+        "songLink": "https://www.youtube.com/watch?v=X-TVIp7_BAs&t=5087s"
+      },
+      {
+        "showDate": true,
+        "songName": "千言萬語",
+        "singer": " 鄧麗君 Teresa Teng Li-Chun",
+        "songTime": "1:50:22",
+        "songLink": "https://www.youtube.com/watch?v=X-TVIp7_BAs&t=6622s"
+      },
+      {
+        "showDate": true,
+        "songName": "命運",
+        "singer": " 家家 JiaJia",
+        "songTime": "1:59:02",
+        "songLink": "https://www.youtube.com/watch?v=X-TVIp7_BAs&t=7142s"
+      },
+      {
+        "showDate": true,
+        "songName": "感恩的心",
+        "singer": " 歐陽菲菲 FeiFei Ou-Yang",
+        "songTime": "2:06:21",
+        "songLink": "https://www.youtube.com/watch?v=X-TVIp7_BAs&t=7581s"
+      }
+    ]
+  },
+  {
     date: "2022年8月21日",
     streamName: "【收益化慶祝歌回】各位！這天終於來ㄌ～～捏嚕開會員啦！！ ",
     showList: true,
@@ -541,14 +783,14 @@ const arrayData = [
         "showDate": true,
         "songName": "We will rock you",
         "singer": " Queen",
-        "songTime": "00:15",
+        "songTime": "0:00:15",
         "songLink": "https://www.youtube.com/watch?v=Z8fZC3uIyl8&t=15s"
       },
       {
         "showDate": true,
         "songName": "阿修羅醬",
         "singer": " ado",
-        "songTime": "7:11",
+        "songTime": "0:07:11",
         "songLink": "https://www.youtube.com/watch?v=Z8fZC3uIyl8&t=431s"
       },
       {
