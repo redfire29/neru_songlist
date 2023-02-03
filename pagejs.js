@@ -9,6 +9,9 @@ const vm = new Vue({
     get(data, key) {
       return _.get(data, key)
     },
+    shList(data) {
+      _.set(data, 'showList', !_.get(data, 'showList'))
+    },
     SearchSong() {
       this.showSongArray = [];
       if (this.searchWord) {

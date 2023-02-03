@@ -33,6 +33,7 @@ ul li {
 }
 .song {
   background: #302644;
+  border-bottom:1px solid #907fb1;
   padding: 10px 10px 10px 20px;
 }
 .song a {
