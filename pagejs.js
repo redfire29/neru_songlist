@@ -35,7 +35,6 @@ const vm = new Vue({
           })
         });
       }
-      console.log(this.showSongArray, 'showSongArray');
     },
   },
   mounted() {
@@ -47,7 +46,6 @@ const vm = new Vue({
       this.songListAll = _.concat(this.songListAll, v);
     })
     this.showSongArray = this.songListAll;
-    console.log('test');
   }
 });
 setTimeout(() => {
