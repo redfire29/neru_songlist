@@ -1,6 +1,50 @@
 const arrayData = [
   [
     {
+      date: "2021年11月28日",
+      streamName: "【突發雜談】 ✞Trying NOT to speak Chinese in a half hour/30分中国語禁止",
+      showList: true,
+      showDate: true,
+      songList: [
+        {
+          showDate: true,
+          songName: "超跑情人夢 / 卜學亮 (超喘情人夢)",
+          songTime: "0:48:57",
+          songLink: "https://www.youtube.com/watch?v=Rk1upc7Mk1E&t=2937s"
+        },
+        {
+          showDate: true,
+          songName: "怪物 / YOASOBI(加速板)",
+          songTime: "0:57:14",
+          songLink: "https://www.youtube.com/watch?v=Rk1upc7Mk1E&t=3434s"
+        },
+        {
+          showDate: true,
+          songName: "你是我的花朵 / 伍佰&China Blue(加速板)",
+          songTime: "1:02:06",
+          songLink: "https://www.youtube.com/watch?v=Rk1upc7Mk1E&t=3726s"
+        },
+        {
+          showDate: true,
+          songName: "Faded / Alan Walker",
+          songTime: "1:11:58",
+          songLink: "https://www.youtube.com/watch?v=Rk1upc7Mk1E&t=4318s"
+        },
+        {
+          showDate: true,
+          songName: "fly me to the moon / Frank Sinatra",
+          songTime: "1:15:21",
+          songLink: "https://www.youtube.com/watch?v=Rk1upc7Mk1E&t=4521s"
+        },
+        {
+          showDate: true,
+          songName: "It's My Life / Bon Jovi",
+          songTime: "1:19:22",
+          songLink: "https://www.youtube.com/watch?v=Rk1upc7Mk1E&t=4762s"
+        },
+      ],
+    },
+    {
       date: "2021年11月27日",
       streamName: "【歌枠】 闇音ネル✞歌回大雜燴✞",
       showList: true,
