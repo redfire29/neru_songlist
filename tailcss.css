@@ -765,8 +765,8 @@ video {
   display: none;
 }
 
-.w-1\/2 {
-  width: 50%;
+.w-full {
+  width: 100%;
 }
 
 .max-w-screen-md {
@@ -2346,8 +2346,8 @@ ul li {
 }
 
 @media (min-width: 768px) {
-  .md\:w-full {
-    width: 100%;
+  .md\:w-1\/2 {
+    width: 50%;
   }
 }
 
