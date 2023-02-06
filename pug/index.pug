@@ -15,11 +15,17 @@ html(lang='en')
     meta(data-n-head='ssr', data-hid='og:description', property='og:description', content='闇音ネル歌曲列表')
     script(src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js')
     script(src='https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js')
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js")
     script(src='https://unpkg.com/axios/dist/axios.min.js')
     script(src='array.js')
     script(src='pagejs.js')
   body
     #app(class="max-w-screen-md")
+      div(class="border-solid border-2 mb-1 p-1 bg-white")
+        p
+          span(class="text-gray-600") 公告：這是非官方自製的 
+          a(href="https://www.youtube.com/@neruch.7527", class="text-[#574281]") Neru Ch. 闇音ネル 
+          span(class="text-gray-600") 歌單列表合集, 可能會有遺漏, 請多包涵！
       .timetaglist.border-solid.border-2.mb-1.p-1
         h1.text-2xl 感謝時間軸標記：
         .taglist
@@ -37,6 +43,11 @@ html(lang='en')
             p Search Song
           div.search(@click="SearchSong('singer')")
             p Search Singer
+      div(class="mb-2")
+        p(class="inline-block mr-1") Date Select
+        select(v-model="selectDate", @change="dateSelect()", class="inline-block")
+          option(value="") all
+          option(v-for="date in dateList", :value='date') {{get(date, 'date')}}
       .songlist
         .list(v-for='songData in showSongArray')
           .dateword(v-if="get(songData, 'showDate')", @click="shList(songData)")

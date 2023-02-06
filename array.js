@@ -1,6 +1,6 @@
 const arrayData = [
   {
-    date: "2023年2月6日",
+    date: "2023/2/6",
     streamName: "【元宵歌枠】陪泥過元宵！！啊怎麼才放一天假又要上班ㄌ",
     showList: true,
     showDate: true,
@@ -64,7 +64,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2023年2月2日",
+    date: "2023/2/2",
     streamName: "【午間練歌台】兔年第一個午間練歌台！",
     showList: true,
     showDate: true,
@@ -86,7 +86,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年12月25日",
+    date: "2022/12/25",
     streamName: "【聖誕歌枠】2022最後一個直播！叮叮噹！叮叮噹！菱聲多響亮！",
     showList: true,
     showDate: true,
@@ -192,7 +192,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年11月24日",
+    date: "2022/11/24",
     streamName: "【耐久歌枠】一週年前夜祭耐久歌回！！",
     showList: true,
     showDate: true,
@@ -578,7 +578,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年11月11日",
+    date: "2022/11/11",
     streamName: "【歌枠】111年11月11日晚上11點ㄉ一個字歌回！錯過再等一千年！",
     showList: true,
     showDate: true,
@@ -635,7 +635,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年11月6日",
+    date: "2022/11/6",
     streamName: "【歌枠】七七七七七七千訂閱慶祝歌回來啦！！！ 歌回結束前有小小的重大告知！",
     showList: true,
     showDate: true,
@@ -692,7 +692,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年10月7日",
+    date: "2022/10/7",
     streamName: "【歌枠】捏嚕首次酒吧駐唱初體驗！歡迎一起來小酌小酌聽聽歌",
     showList: true,
     showDate: true,
@@ -791,7 +791,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年10月7日",
+    date: "2022/10/7",
     streamName: "【歌枠】遲來ㄉ六千訂閱慶祝歌回！！！",
     showList: true,
     showDate: true,
@@ -848,7 +848,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年9月25日",
+    date: "2022/9/25",
     streamName: "【歌枠】第一次帶著牙套唱歌...主題就叫牙套歌回可以嗎？？？",
     showList: true,
     showDate: true,
@@ -919,7 +919,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年9月11日",
+    date: "2022/9/11",
     streamName: "【#2022清歌踏月】歌回接力賽～捏嚕陪你過中秋連假最後一天！！",
     showList: true,
     showDate: true,
@@ -962,7 +962,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年9月5日",
+    date: "2022/9/5",
     streamName: "【歌枠】颱風終於走啦～中文歌限定歌回💜",
     showList: true,
     showDate: true,
@@ -1033,7 +1033,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年8月21日",
+    date: "2022/8/21",
     streamName: "【收益化慶祝歌回】各位！這天終於來ㄌ～～捏嚕開會員啦！！ ",
     showList: true,
     showDate: true,
@@ -1104,7 +1104,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年5月1日",
+    date: "2022/5/1",
     streamName: "【歌枠】泥小時候一定也聽過的歌歌回！一起回味童年啦～ ",
     showList: true,
     showDate: true,
@@ -1182,7 +1182,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年4月28日",
+    date: "2022/4/28",
     streamName: "【歌枠】本次ㄉ歌回主題！！名字是～B開頭ㄉ人 ",
     showList: true,
     showDate: true,
@@ -1253,7 +1253,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年4月17日",
+    date: "2022/4/17",
     streamName: "【歌枠】三千訂閱慶祝歌回！！！結束前公布抽獎活動資訊唷！",
     showList: true,
     showDate: true,
@@ -1345,7 +1345,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年4月2日",
+    date: "2022/4/2",
     streamName: "【歌枠】今天ㄉ歌回主題是～～～名字是A開頭ㄉ人",
     showList: true,
     showDate: true,
@@ -1416,7 +1416,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年3月22日",
+    date: "2022/3/22",
     streamName: "【練歌工作台】聽捏嚕邊工作邊自言自語＆練練歌",
     showList: true,
     showDate: true,
@@ -1494,7 +1494,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年3月18日",
+    date: "2022/3/18",
     streamName: "【台語歌歌枠】捏嚕閃亮歌廳秀！跟著捏嚕搖落去",
     showList: true,
     showDate: true,
@@ -1565,7 +1565,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年3月3日",
+    date: "2022/3/3",
     streamName: "【誕生日配信】這隻小惡魔又長一歲啦！！！",
     showList: true,
     showDate: true,
@@ -1622,7 +1622,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年2月18日",
+    date: "2022/2/18",
     streamName: "【真珠美人魚歌枠】閃耀亮眼ㄉ愛之味！要不要來一首安口曲！！！！",
     showList: true,
     showDate: true,
@@ -1721,7 +1721,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年2月10日",
+    date: "2022/2/10",
     streamName: "【情人節歌枠】才沒有要給泥甜蜜蜜！哼！",
     showList: true,
     showDate: true,
@@ -1799,7 +1799,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年2月3日",
+    date: "2022/2/3",
     streamName: "【新春歌枠】一個喜氣洋洋ㄉ紅紅歌枠！",
     showList: true,
     showDate: true,
@@ -1842,7 +1842,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2022年1月9日",
+    date: "2022/1/9",
     streamName: "【遲來ㄉ滿月歌枠】挑戰自己ㄉ首次耐久歌回！！",
     showList: true,
     showDate: true,
@@ -1997,7 +1997,7 @@ const arrayData = [
     ],
   },
   {
-    date: "2022年1月1日",
+    date: "2022/1/1",
     streamName: "【新年歌枠】あけおめ！捏嚕陪泥悶過2022的第一天",
     showList: true,
     showDate: true,
@@ -2054,7 +2054,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2021年12月23日",
+    date: "2021/12/23",
     streamName: "【耶誕歌枠】提前過耶誕節辣～英語歌曲限定歌回",
     showList: true,
     showDate: true,
@@ -2132,7 +2132,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2021年12月16日",
+    date: "2021/12/16",
     streamName: "【練習歌枠】 深夜陪捏嚕練練歌！",
     showList: true,
     showDate: true,
@@ -2329,7 +2329,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2021年12月11日",
+    date: "2021/12/11",
     streamName: "【歌枠】 是辣個兩千訂閱慶祝歌回！！！今天可以不要嘴ㄆㄧㄚˊ嗎",
     showList: true,
     showDate: true,
@@ -2386,7 +2386,7 @@ const arrayData = [
     ],
   },
   {
-    date: "2021年12月4日",
+    date: "2021/12/4",
     streamName: "【歌枠】 明天要考日檢只好靠歌唱學習法了！！！只有日文歌的日文歌回",
     showList: true,
     showDate: true,
@@ -2457,7 +2457,7 @@ const arrayData = [
     ]
   },
   {
-    date: "2021年11月28日",
+    date: "2021/11/28",
     streamName: "【突發雜談】 ✞Trying NOT to speak Chinese in a half hour/30分中国語禁止",
     showList: true,
     showDate: true,
@@ -2507,7 +2507,7 @@ const arrayData = [
     ],
   },
   {
-    date: "2021年11月27日",
+    date: "2021/11/27",
     streamName: "【歌枠】 闇音ネル✞歌回大雜燴✞",
     showList: true,
     showDate: true,
@@ -2557,7 +2557,7 @@ const arrayData = [
     ],
   },
   {
-    date: "2021年11月26日",
+    date: "2021/11/26",
     streamName: "【初配信】夜幕降臨! 歡迎來到ネル的晚宴✝ | 闇音ネル",
     showList: true,
     showDate: true,
