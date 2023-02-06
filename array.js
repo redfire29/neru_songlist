@@ -1920,6 +1920,7 @@ const arrayData = [
       {
         "showDate": true,
         "songName": "すずめの学校",
+        "singer": "日本童謡",
         "songTime": "1:43:41",
         "songLink": "https://www.youtube.com/watch?v=_qTUuGf9pYE&t=6221s"
       },
@@ -2025,6 +2026,7 @@ const arrayData = [
       {
         "showDate": true,
         "songName": "兩隻老虎",
+        "singer": "台灣童謠",
         "songTime": "0:49:52",
         "songLink": "https://www.youtube.com/watch?v=QRPRkPf8ziA&t=2992s"
       },
