@@ -51,10 +51,20 @@ html(lang='en')
       .songlist
         .list(v-for='songData in showSongArray')
           .dateword(v-if="get(songData, 'showDate')", @click="shList(songData)")
-            p {{get(songData, 'streamName')}}
-            p.text-xl {{get(songData, 'date')}}
+            div(class="w-[calc(100%-24px)] float-left")
+              p(class="text-lg") {{get(songData, 'streamName')}}
+              p(class="text-base") {{get(songData, 'date')}}
+            svg(xmlns="http://www.w3.org/2000/svg"
+            , fill="none"
+            , viewBox="0 0 24 24"
+            , stroke-width="1.5"
+            , stroke="currentColor"
+            , :class="{'rotate-180': get(songData, 'showList')}"
+            , class="float-right w-6 h-6 text-[#261d38]")
+              path(stroke-linecap="round", stroke-linejoin="round", d="M19.5 8.25l-7.5 7.5-7.5-7.5")
+            .clear-both
           .song(v-for="song in get(songData, 'songList')", v-if="get(songData, 'showList') && get(song, 'showDate')")
-            a(:href="get(song, 'songLink')" target='_blank')
+            a(:href="get(song, 'songLink')", target='_blank', class="text-lg")
               p
                 span {{`${get(song, 'songName')} / ${get(song, 'singer')}`}}
     link(rel='stylesheet' href='style.css')

@@ -27,7 +27,6 @@ p {
   border-bottom: 1px solid #302644;
   color: #261d38;
   padding: 5px;
-  font-size: 22px;
   cursor: pointer;
 }
 ul {
@@ -40,7 +39,7 @@ ul li {
 .song {
   background: #302644;
   border-bottom:1px solid #907fb1;
-  padding: 10px 10px 10px 20px;
+  padding: 8px 8px 8px 16px;
 }
 .song a {
   display: block;
