@@ -39,14 +39,13 @@ const vm = new Vue({
       _.set(data, 'showList', !_.get(data, 'showList'))
     },
     SearchSong(searchKey) {
-      this.showSongArray = [];
       if (this.searchWord) {
+        this.allSongSH(false);
         _.find(this.songListAll,(find) => {
           _.find(find.songList, (song) => {
             if (_.get(song, searchKey).match(new RegExp(this.searchWord, 'i'))) {
               _.set(find, 'showDate', true);
               _.set(song, 'showDate', true);
-              this.showSongArray.push(find);
             } else {
               _.set(song, 'showDate', false);
             }
