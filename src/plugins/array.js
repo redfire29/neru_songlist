@@ -1,4 +1,4 @@
-const arrayData = [
+export default [
   {
     date: "2023/2/6",
     streamName: "【元宵歌枠】陪泥過元宵！！啊怎麼才放一天假又要上班ㄌ",
