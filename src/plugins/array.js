@@ -1,5 +1,259 @@
 export default [
   {
+    date: "2023/3/14",
+    streamName: "【白色情人節歌枠】說好ㄉ情人節歌回來啦！有笑有淚有綠帽",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "Sugar",
+        "singer": "Maroon 5",
+        "songTime": "00:16:16",
+        "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=976s"
+      },
+      {
+        "showDate": true,
+        "songName": "你為什說謊",
+        "singer": "Della丁噹",
+        "songTime": "00:24:06",
+        "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=1446s"
+      },
+      {
+        "showDate": true,
+        "songName": "尼為什麼說言荒",
+        "songTime": "00:32:05",
+        "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=1925s"
+      },
+      {
+        "showDate": true,
+        "songName": "Flashlight",
+        "singer": "Jessie J",
+        "songTime": "00:48:25",
+        "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=2905s"
+      },
+      {
+        "showDate": true,
+        "songName": "愛久見人心",
+        "singer": "梁靜茹",
+        "songTime": "01:01:00",
+        "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=3660s"
+      },
+      {
+        "showDate": true,
+        "songName": "A Thousand Years",
+        "singer": "Christina Perri",
+        "songTime": "01:17:42",
+        "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=4662s"
+      },
+      {
+        "showDate": true,
+        "songName": "艷火",
+        "singer": "張懸",
+        "songTime": "01:24:02",
+        "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=5042s"
+      },
+      {
+        "showDate": true,
+        "songName": "Wherever You Are",
+        "singer": "ONE OK ROCK",
+        "songTime": "01:37:17",
+        "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=5837s"
+      },
+      {
+        "showDate": true,
+        "songName": "寶貝",
+        "singer": "張懸",
+        "songTime": "01:49:43",
+        "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=6583s"
+      },
+    ]
+  },
+  {
+    date: "2023/3/2",
+    streamName: "【生日合唱歌枠】被一堆美女包圍ㄉ一天！幸福ㄉ唱歌歌慶慶生！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "暖心",
+        "singer": "郁可唯",
+        "songTime": "00:13:16",
+        "songLink": "https://www.youtube.com/watch?v=pYK60q7hLdY&t=796s"
+      },
+      {
+        "showDate": true,
+        "songName": "匿名的好友",
+        "singer": "楊丞琳",
+        "songTime": "00:24:37",
+        "songLink": "https://www.youtube.com/watch?v=pYK60q7hLdY&t=1477s"
+      },
+      {
+        "showDate": true,
+        "songName": "踊",
+        "singer": "Ado",
+        "songTime": "00:37:15",
+        "songLink": "https://www.youtube.com/watch?v=pYK60q7hLdY&t=2235s"
+      },
+      {
+        "showDate": true,
+        "songName": "I Beg You",
+        "singer": "Aimer",
+        "songTime": "00:46:40",
+        "songLink": "https://www.youtube.com/watch?v=pYK60q7hLdY&t=2800s"
+      },
+      {
+        "showDate": true,
+        "songName": "Bad Guy",
+        "singer": "Billie Eilish",
+        "songTime": "00:57:28",
+        "songLink": "https://www.youtube.com/watch?v=pYK60q7hLdY&t=3448s"
+      },
+      {
+        "showDate": true,
+        "songName": "GLAMOROUS SKY",
+        "singer": "中島美嘉",
+        "songTime": "01:08:20",
+        "songLink": "https://www.youtube.com/watch?v=pYK60q7hLdY&t=4100s"
+      },
+      {
+        "showDate": true,
+        "songName": "Titanium",
+        "singer": "David Guetta",
+        "songTime": "01:17:24",
+        "songLink": "https://www.youtube.com/watch?v=pYK60q7hLdY&t=4644s"
+      },
+      {
+        "showDate": true,
+        "songName": "恋",
+        "singer": "星野源",
+        "songTime": "01:33:54",
+        "songLink": "https://www.youtube.com/watch?v=pYK60q7hLdY&t=5634s"
+      },
+      {
+        "showDate": true,
+        "songName": "Ref:rain",
+        "singer": "Aimer",
+        "songTime": "01:46:43",
+        "songLink": "https://www.youtube.com/watch?v=pYK60q7hLdY&t=6403s"
+      },
+      {
+        "showDate": true,
+        "songName": "黏黏黏黏",
+        "singer": "王心凌",
+        "songTime": "02:02:16",
+        "songLink": "https://www.youtube.com/watch?v=pYK60q7hLdY&t=7336s"
+      },
+    ]
+  },
+  {
+    date: "2023/2/23",
+    streamName: "【あいみょん歌枠】今天都唱あいみょんㄉ歌！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "貴方解剖純愛歌 〜死ね〜",
+        "singer": "あいみょん",
+        "songTime": "00:12:26",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=746s"
+      },
+      {
+        "showDate": true,
+        "songName": "君はロックを聴かない",
+        "singer": "あいみょん",
+        "songTime": "00:20:13",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=1213s"
+      },
+      {
+        "showDate": true,
+        "songName": "初恋が泣いている",
+        "singer": "あいみょん",
+        "songTime": "00:28:17",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=1697s"
+      },
+      {
+        "showDate": true,
+        "songName": "貓 - DISH//（あいみょん作詞作曲）",
+        "singer": "あいみょん",
+        "songTime": "00:40:10",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=2410s"
+      },
+      {
+        "showDate": true,
+        "songName": "裸の心",
+        "singer": "あいみょん",
+        "songTime": "00:49:21",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=2961s"
+      },
+      {
+        "showDate": true,
+        "songName": "ハルノヒ",
+        "singer": "あいみょん",
+        "songTime": "00:57:12",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=3432s"
+      },
+      {
+        "showDate": true,
+        "songName": "マリーゴールド",
+        "singer": "あいみょん",
+        "songTime": "01:16:28",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=4588s"
+      },
+      {
+        "showDate": true,
+        "songName": "空の青さを知る人よ",
+        "singer": "あいみょん",
+        "songTime": "01:38:48",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=5928s"
+      },
+      {
+        "showDate": true,
+        "songName": "愛を伝えたいだとか",
+        "singer": "あいみょん",
+        "songTime": "01:44:45",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=6285s"
+      },
+      {
+        "showDate": true,
+        "songName": "生きていたんだよな",
+        "singer": "あいみょん",
+        "songTime": "01:50:33",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=6633s"
+      },
+      {
+        "showDate": true,
+        "songName": "真夏の夜の匂いがする",
+        "singer": "あいみょん",
+        "songTime": "01:53:06",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=6786s"
+      },
+      {
+        "showDate": true,
+        "songName": "愛を知るまでは",
+        "singer": "あいみょん",
+        "songTime": "01:59:11",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=7151s"
+      },
+      {
+        "showDate": true,
+        "songName": "Ref:rain",
+        "singer": "Aimer",
+        "songTime": "02:01:42",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=7302s"
+      },
+      {
+        "showDate": true,
+        "songName": "ウタカタララバイ",
+        "singer": "ado",
+        "songTime": "01:33:02",
+        "songLink": "https://www.youtube.com/watch?v=APkYqPOzLCQ&t=5582s"
+      },
+    ]
+  },
+  {
     date: "2023/2/6",
     streamName: "【元宵歌枠】陪泥過元宵！！啊怎麼才放一天假又要上班ㄌ",
     showList: true,
