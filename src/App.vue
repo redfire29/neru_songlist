@@ -123,6 +123,7 @@ div(class="max-w-screen-md")
       p 管理員伯伯
       p 蘋狗紅茶-りんご茶
       p SWeeds
+      p 😈安靜🕊️【糾結靜】
   .serchbar.mb-2
     input(class="border-solid border-[1px] w-full md:w-1/2", type='text', v-model='searchWord')
     div(class="inline-block w-full md:w-1/2")
