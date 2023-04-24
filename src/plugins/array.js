@@ -1,5 +1,76 @@
 export default [
   {
+    date: "2023/4/22",
+    streamName: "【偶像歌枠】總而言之不是泥想像中ㄉ那種偶像歌回！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "極樂淨土",
+        "singer": "GARNiDELiA",
+        "songTime": "00:16:14",
+        "songLink": "https://www.youtube.com/watch?v=kELysZjqCfQ&t=974s"
+      },
+      {
+        "showDate": true,
+        "songName": "有沒有",
+        "singer": "BY2",
+        "songTime": "00:28:01",
+        "songLink": "https://www.youtube.com/watch?v=kELysZjqCfQ&t=1681s"
+      },
+      {
+        "showDate": true,
+        "songName": "How You Like That",
+        "singer": "BLACKPINK",
+        "songTime": "00:37:15",
+        "songLink": "https://www.youtube.com/watch?v=kELysZjqCfQ&t=2235s"
+      },
+      {
+        "showDate": true,
+        "songName": "幻影★ギャラクティカ",
+        "singer": "煌めき☆アンフォレント",
+        "songTime": "00:50:00",
+        "songLink": "https://www.youtube.com/watch?v=kELysZjqCfQ&t=3000s"
+      },
+      {
+        "showDate": true,
+        "songName": "MR. TAXI(日文版)",
+        "singer": "少女時代",
+        "songTime": "01:26:39",
+        "songLink": "https://www.youtube.com/watch?v=kELysZjqCfQ&t=5199s"
+      },
+      {
+        "showDate": true,
+        "songName": "觸電",
+        "singer": "芭比",
+        "songTime": "01:39:13",
+        "songLink": "https://www.youtube.com/watch?v=kELysZjqCfQ&t=5953s"
+      },
+      {
+        "showDate": true,
+        "songName": "LOVEマシーン",
+        "singer": "モーニング娘。",
+        "songTime": "01:45:38",
+        "songLink": "https://www.youtube.com/watch?v=kELysZjqCfQ&t=6338s"
+      },
+      {
+        "showDate": true,
+        "songName": "アイドル",
+        "singer": "YOASOBI",
+        "songTime": "01:59:00",
+        "songLink": "https://www.youtube.com/watch?v=kELysZjqCfQ&t=7140s"
+      },
+      {
+        "showDate": true,
+        "songName": "もっと",
+        "singer": "aiko",
+        "songTime": "02:07:48",
+        "songLink": "https://www.youtube.com/watch?v=kELysZjqCfQ&t=7668s"
+      },
+    ],
+  },
+  {
     date: "2023/3/19",
     streamName: "【點歌歌枠】線下活動預售倒數不到一天！！快揪朋友來聽歌！",
     showList: true,
