@@ -1,9 +1,10 @@
 var array = [];
-document.querySelectorAll('.ytd-comment-renderer #content-text a').forEach((item) => {
+var splitWord = ' / '
+document.querySelectorAll('.ytd-comment-renderer #content-text')[0].querySelectorAll('a').forEach((item) => {
     var data = {
         "showDate": true,
-        "songName": item.nextElementSibling.textContent.replace(/\r/g, '').split(' / ')[0],
-        "singer": item.nextElementSibling.textContent.replace(/\r/g, '').split(' / ')[1],
+        "songName": item.nextElementSibling.textContent.replace(/\r/g, '').split(splitWord)[0],
+        "singer": item.nextElementSibling.textContent.replace(/\r/g, '').split(splitWord)[1],
         "songTime": item.textContent,
         "songLink": item.href,
     };
