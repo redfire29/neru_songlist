@@ -42,7 +42,8 @@ export default [
       },
       {
         "showDate": true,
-        "singer": "李佳薇－像天堂的懸崖",
+        "songName": "像天堂的懸崖",
+        "singer": "李佳薇",
         "songTime": "01:33:17",
         "songLink": "https://www.youtube.com/watch?v=NWJ3ioJuNYs&t=5597s"
       },
