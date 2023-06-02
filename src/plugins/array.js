@@ -1,5 +1,98 @@
 export default [
   {
+    date: "2023/6/1",
+    streamName: "【未康復微歌枠】康復一半ㄉ小歌回！！小小唱唱 ",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "ちゅ、多様性",
+        "singer": "ano",
+        "songTime": "00:16:20",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=980s"
+      },
+      {
+        "showDate": true,
+        "songName": "喜劇",
+        "singer": "星野源",
+        "songTime": "00:25:24",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=1524s"
+      },
+      {
+        "showDate": true,
+        "singer": "ロイ ",
+        "songTime": "00:34:25",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=2065s"
+      },
+      {
+        "showDate": true,
+        "songName": "オトナブルー",
+        "singer": "ATARASHII GAKKO!",
+        "songTime": "00:45:41",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=2741s"
+      },
+      {
+        "showDate": true,
+        "songName": "ミカヅキ",
+        "singer": "さユり",
+        "songTime": "00:52:22",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=3142s"
+      },
+      {
+        "showDate": true,
+        "songName": "小さな恋のうた",
+        "singer": "新垣結衣",
+        "songTime": "01:20:17",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=4817s"
+      },
+      {
+        "showDate": true,
+        "songName": "強風オールバック",
+        "singer": "歌愛ユキ",
+        "songTime": "01:29:51",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=5391s"
+      },
+      {
+        "showDate": true,
+        "singer": "強風オールバック (1.25倍速)",
+        "songTime": "01:34:35",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=5675s"
+      },
+      {
+        "showDate": true,
+        "singer": "強風オールバック (1.5倍速)",
+        "songTime": "01:36:53",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=5813s"
+      },
+      {
+        "showDate": true,
+        "singer": "強風オールバック (2倍速)",
+        "songTime": "01:42:31",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=6151s"
+      },
+      {
+        "showDate": true,
+        "singer": "強風オールバック (1.75倍速)",
+        "songTime": "01:46:21",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=6381s"
+      },
+      {
+        "showDate": true,
+        "singer": "強風オールバック (0.5倍速)",
+        "songTime": "01:49:17",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=6557s"
+      },
+      {
+        "showDate": true,
+        "songName": "水狗經",
+        "singer": "乙乙超進化",
+        "songTime": "01:59:12",
+        "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=7152s"
+      },
+    ]
+  },
+  {
     date: "2023/5/28",
     streamName: "【中文歌枠】提前達到一萬五訂閱了！但歌回還是要照開的吧！！",
     showList: true,
