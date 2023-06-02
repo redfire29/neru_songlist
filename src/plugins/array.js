@@ -56,30 +56,35 @@ export default [
       {
         "showDate": true,
         "singer": "強風オールバック (1.25倍速)",
+        "singer": "歌愛ユキ",
         "songTime": "01:34:35",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=5675s"
       },
       {
         "showDate": true,
         "singer": "強風オールバック (1.5倍速)",
+        "singer": "歌愛ユキ",
         "songTime": "01:36:53",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=5813s"
       },
       {
         "showDate": true,
         "singer": "強風オールバック (2倍速)",
+        "singer": "歌愛ユキ",
         "songTime": "01:42:31",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=6151s"
       },
       {
         "showDate": true,
         "singer": "強風オールバック (1.75倍速)",
+        "singer": "歌愛ユキ",
         "songTime": "01:46:21",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=6381s"
       },
       {
         "showDate": true,
         "singer": "強風オールバック (0.5倍速)",
+        "singer": "歌愛ユキ",
         "songTime": "01:49:17",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=6557s"
       },
