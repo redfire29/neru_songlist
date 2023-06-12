@@ -1,5 +1,139 @@
 export default [
   {
+    date: "2023/6/11",
+    streamName: "【食物歌枠】宵夜時間就是要吃ㄔ痴癡嗤！有甜有鹹ㄉ歌回",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "蚵仔麵線",
+        "singer": "琳誼 Ring",
+        "songTime": "00:15:25",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=925s"
+      },
+      {
+        "showDate": true,
+        "songName": "キミチョコ",
+        "singer": "Baby metal",
+        "songTime": "00:29:35",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=1775s"
+      },
+      {
+        "showDate": true,
+        "songName": "マリーゴールド",
+        "singer": "あいみょん",
+        "songTime": "00:48:28",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=2908s"
+      },
+      {
+        "showDate": true,
+        "songName": "你要不要吃哈密瓜",
+        "singer": "告五人",
+        "songTime": "01:12:01",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=4321s"
+      },
+      {
+        "showDate": true,
+        "songName": "我在人民廣場吃炸雞",
+        "singer": "阿肆",
+        "songTime": "01:36:06",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=5766s"
+      },
+      {
+        "showDate": true,
+        "songName": "ㄘㄨㄚˋ冰進行曲 ",
+        "singer": "阿雅",
+        "songTime": "01:48:27",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=6507s"
+      },
+      {
+        "showDate": true,
+        "songName": "Lemon",
+        "singer": "米津玄師",
+        "songTime": "02:01:01",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=7261s"
+      },
+      {
+        "showDate": true,
+        "songName": "愛情恰恰",
+        "singer": "陳小雲",
+        "songTime": "02:13:38",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=8018s"
+      },
+      {
+        "showDate": true,
+        "songName": "黑色柳丁",
+        "singer": "陶喆",
+        "songTime": "02:20:48",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=8448s"
+      },
+      {
+        "showDate": true,
+        "songName": "早安，晨之美！",
+        "singer": "盧廣仲",
+        "songTime": "02:27:29",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=8849s"
+      },
+      {
+        "showDate": true,
+        "songName": "紅豆",
+        "singer": "王菲",
+        "songTime": "02:36:35",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=9395s"
+      },
+      {
+        "showDate": true,
+        "songName": "漢堡包",
+        "singer": "鄧福如",
+        "songTime": "02:42:25",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=9745s"
+      },
+      {
+        "showDate": true,
+        "singer": "可愛巧虎島",
+        "singer": "巧虎?",
+        "songTime": "02:48:15",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=10095s"
+      },
+      {
+        "showDate": true,
+        "songName": "魚仔 (清唱副歌)",
+        "singer": "盧廣仲",
+        "songTime": "02:51:53",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=10313s"
+      },
+      {
+        "showDate": true,
+        "songName": "Sugar",
+        "singer": "Maroon 5",
+        "songTime": "02:53:41",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=10421s"
+      },
+      {
+        "showDate": true,
+        "singer": "熱愛105°C的你(只有幾句）",
+        "singer": "阿肆",
+        "songTime": "03:00:19",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=10819s"
+      },
+      {
+        "showDate": true,
+        "songName": "魚 (清唱)",
+        "singer": "陳綺貞",
+        "songTime": "03:01:42",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=10902s"
+      },
+      {
+        "showDate": true,
+        "songName": "青蘋果樂園",
+        "singer": "小虎隊",
+        "songTime": "03:04:04",
+        "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=11044s"
+      }
+    ]
+  },
+  {
     date: "2023/6/1",
     streamName: "【未康復微歌枠】康復一半ㄉ小歌回！！小小唱唱 ",
     showList: true,
