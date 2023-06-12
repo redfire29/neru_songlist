@@ -91,7 +91,7 @@ export default [
       },
       {
         "showDate": true,
-        "singer": "可愛巧虎島",
+        "songName": "可愛巧虎島",
         "singer": "巧虎?",
         "songTime": "02:48:15",
         "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=10095s"
@@ -112,7 +112,7 @@ export default [
       },
       {
         "showDate": true,
-        "singer": "熱愛105°C的你(只有幾句）",
+        "songName": "熱愛105°C的你(只有幾句）",
         "singer": "阿肆",
         "songTime": "03:00:19",
         "songLink": "https://www.youtube.com/watch?v=X5ivhYXUknU&t=10819s"
