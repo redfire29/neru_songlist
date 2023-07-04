@@ -1,5 +1,189 @@
 export default [
   {
+    date: "2023/6/29",
+    streamName: "【動物歌枠】今天能不能達到16300訂閱呢！開場直接先唱兩隻老虎沒問題ㄉ吧！！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "butterfly",
+        "singer": "和田光司",
+        "songTime": "00:19:02",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=1142s"
+      },
+      {
+        "showDate": true,
+        "songName": "雙棲動物",
+        "singer": "蔡健雅",
+        "songTime": "00:29:12",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=1752s"
+      },
+      {
+        "showDate": true,
+        "songName": "魚",
+        "singer": "陳綺貞",
+        "songTime": "00:50:35",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=3035s"
+      },
+      {
+        "showDate": true,
+        "songName": "魚 (清唱一段)",
+        "singer": "怕胖團",
+        "songTime": "00:56:01",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=3361s"
+      },
+      {
+        "showDate": true,
+        "songName": "褲子裡有松鼠",
+        "singer": "飛哥與小佛",
+        "songTime": "00:58:14",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=3494s"
+      },
+      {
+        "showDate": true,
+        "songName": "學貓叫 (清唱幾句)",
+        "singer": "小潘潘&小峰峰",
+        "songTime": "01:00:38",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=3638s"
+      },
+      {
+        "showDate": true,
+        "songName": "崖の上のポニョ (小捏捏版)",
+        "singer": "のぞみちゃんデモ",
+        "songTime": "01:04:44",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=3884s"
+      },
+      {
+        "showDate": true,
+        "songName": "The Fox",
+        "singer": "Ylvis",
+        "songTime": "01:14:10",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=4450s"
+      },
+      {
+        "showDate": true,
+        "songName": "COPYCAT",
+        "singer": "Billie Eilish",
+        "songTime": "01:22:26",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=4946s"
+      },
+      {
+        "showDate": true,
+        "songName": "ハムちゃんず",
+        "singer": "ハム太郎とっとこうた",
+        "songTime": "01:28:39",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=5319s"
+      },
+      {
+        "showDate": true,
+        "songName": "相愛後動物感傷",
+        "singer": "張惠妹",
+        "songTime": "01:58:29",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=7109s"
+      },
+      {
+        "showDate": true,
+        "songName": "斑馬斑馬",
+        "singer": "宋冬野",
+        "songTime": "02:06:08",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=7568s"
+      },
+      {
+        "showDate": true,
+        "songName": "猫",
+        "singer": "DISH",
+        "songTime": "02:13:10",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=7990s"
+      },
+      {
+        "showDate": true,
+        "songName": "山頂黑狗兄",
+        "singer": "庾澄慶",
+        "songTime": "02:20:48",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=8448s"
+      },
+      {
+        "showDate": true,
+        "songName": "Tell Me",
+        "singer": "潘瑋柏",
+        "songTime": "02:23:54",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=8634s"
+      },
+      {
+        "showDate": true,
+        "songName": "動物都是好朋友",
+        "singer": "勸世寶貝喵喵",
+        "songTime": "02:29:59",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=8999s"
+      },
+      {
+        "showDate": true,
+        "songName": "怪獸",
+        "singer": "徐懷鈺",
+        "songTime": "02:33:14",
+        "songLink": "https://www.youtube.com/watch?v=r-J0bHF-QMc&t=9194s"
+      },
+    ]
+  },
+  {
+    date: "2023/6/23",
+    streamName: "【台語合作歌枠】重磅呈現！！台V最台歌回！！！ | 闇音ネル & 洛可洛斯特Loco Lost",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "家後",
+        "singer": "江蕙",
+        "songTime": "00:18:18",
+        "songLink": "https://www.youtube.com/watch?v=4UMWRC_OeMs&t=1098s"
+      },
+      {
+        "showDate": true,
+        "songName": "阿嬤的話",
+        "singer": "蕭煌奇",
+        "songTime": "00:28:28",
+        "songLink": "https://www.youtube.com/watch?v=4UMWRC_OeMs&t=1708s"
+      },
+      {
+        "showDate": true,
+        "songName": "墓仔埔也敢去",
+        "singer": "伍佰",
+        "songTime": "00:43:48",
+        "songLink": "https://www.youtube.com/watch?v=4UMWRC_OeMs&t=2628s"
+      },
+      {
+        "showDate": true,
+        "songName": "蚵仔麵線",
+        "singer": "琳誼",
+        "songTime": "01:03:02",
+        "songLink": "https://www.youtube.com/watch?v=4UMWRC_OeMs&t=3782s"
+      },
+      {
+        "showDate": true,
+        "songName": "魚仔",
+        "singer": "盧廣仲",
+        "songTime": "01:24:05",
+        "songLink": "https://www.youtube.com/watch?v=4UMWRC_OeMs&t=5045s"
+      },
+      {
+        "showDate": true,
+        "songName": "愛情的騙子我問你",
+        "singer": "陳小雲",
+        "songTime": "01:31:25",
+        "songLink": "https://www.youtube.com/watch?v=4UMWRC_OeMs&t=5485s"
+      },
+      {
+        "showDate": true,
+        "songName": "好膽你就來",
+        "singer": "張惠妹",
+        "songTime": "01:50:50",
+        "songLink": "https://www.youtube.com/watch?v=4UMWRC_OeMs&t=6650s"
+      }
+    ]
+  },
+  {
     date: "2023/6/11",
     streamName: "【食物歌枠】宵夜時間就是要吃ㄔ痴癡嗤！有甜有鹹ㄉ歌回",
     showList: true,
