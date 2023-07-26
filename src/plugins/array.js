@@ -1,5 +1,48 @@
 export default [
   {
+    date: "2023/7/15",
+    streamName: "【#夏季大三角歌回接力】陪泥一起唱歌看星星✨ ",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "星屑ビーナス",
+        "singer": "Aimer",
+        "songTime": "00:02:56",
+        "songLink": "https://www.youtube.com/watch?v=7s0obDtzUCU&t=176s"
+      },
+      {
+        "showDate": true,
+        "songName": "ギターと孤独と蒼い惑星",
+        "singer": "結束バンド",
+        "songTime": "00:09:27",
+        "songLink": "https://www.youtube.com/watch?v=7s0obDtzUCU&t=567s"
+      },
+      {
+        "showDate": true,
+        "songName": "Yellow",
+        "singer": "Coldplay",
+        "songTime": "00:16:17",
+        "songLink": "https://www.youtube.com/watch?v=7s0obDtzUCU&t=977s"
+      },
+      {
+        "showDate": true,
+        "songName": "克卜勒",
+        "singer": "孫燕姿",
+        "songTime": "00:23:19",
+        "songLink": "https://www.youtube.com/watch?v=7s0obDtzUCU&t=1399s"
+      },
+      {
+        "showDate": true,
+        "songName": "Ninelie",
+        "singer": "Aimer",
+        "songTime": "00:29:21",
+        "songLink": "https://www.youtube.com/watch?v=7s0obDtzUCU&t=1761s"
+      }
+    ]
+  },
+  {
     date: "2023/6/29",
     streamName: "【動物歌枠】今天能不能達到16300訂閱呢！開場直接先唱兩隻老虎沒問題ㄉ吧！！",
     showList: true,
