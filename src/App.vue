@@ -50,11 +50,13 @@ const SearchSong = (searchKey) => {
     allSongSH(false);
     find(songListAll.value, (findData) => {
       find(findData.songList, (song) => {
-        if (get(song, searchKey).match(new RegExp(searchWord.value, 'i'))) {
-          set(findData, 'showDate', true);
-          set(song, 'showDate', true);
-        } else {
-          set(song, 'showDate', false);
+        if (get(song, searchKey)) {
+          if (get(song, searchKey).match(new RegExp(searchWord.value, 'i'))) {
+            set(findData, 'showDate', true);
+            set(song, 'showDate', true);
+          } else {
+            set(song, 'showDate', false);
+          }
         }
       })
     });

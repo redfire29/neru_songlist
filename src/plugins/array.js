@@ -1,5 +1,104 @@
 export default [
   {
+    date: "2023/7/26",
+    streamName: "【午間歌雜】颱風來ㄌ...來唱一點歌然後聊很多天！！！ ",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "聽見下雨的聲音",
+        "singer": "周杰倫",
+        "songTime": "00:11:15",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=675s"
+      },
+      {
+        "showDate": true,
+        "songName": "下雨天",
+        "singer": "南拳媽媽",
+        "songTime": "00:18:54",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=1134s"
+      },
+      {
+        "showDate": true,
+        "songName": "落雨聲",
+        "singer": "江蕙",
+        "songTime": "00:32:02",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=1922s"
+      },
+      {
+        "showDate": true,
+        "songName": "Ref:rain",
+        "singer": "Aimer",
+        "songTime": "00:40:06",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=2406s"
+      },
+      {
+        "showDate": true,
+        "songName": "雨愛",
+        "singer": "楊丞琳",
+        "songTime": "00:47:29",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=2849s"
+      },
+      {
+        "showDate": true,
+        "songName": "KING",
+        "singer": "Kanaria",
+        "songTime": "00:56:45",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=3405s"
+      },
+      {
+        "showDate": true,
+        "songName": "怪物",
+        "singer": "YOASOBI",
+        "songTime": "01:01:28",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=3688s"
+      },
+      {
+        "showDate": true,
+        "songName": "夜に駆ける",
+        "singer": "YOASOBI",
+        "songTime": "01:07:13",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=4033s"
+      },
+      {
+        "showDate": true,
+        "songName": "無人熟識",
+        "singer": "張清芳",
+        "songTime": "01:19:30",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=4770s"
+      },
+      {
+        "showDate": true,
+        "songName": "甜蜜蜜 (復古版)",
+        "singer": "鄧麗君",
+        "songTime": "01:31:18",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=5478s"
+      },
+      {
+        "showDate": true,
+        "songName": "我問天",
+        "singer": "翁立友",
+        "songTime": "01:38:26",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=5906s"
+      },
+      {
+        "showDate": true,
+        "songName": "家後",
+        "singer": "江蕙",
+        "songTime": "01:44:47",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=6287s"
+      },
+      {
+        "showDate": true,
+        "songName": "含淚跳恰恰",
+        "singer": "謝金燕",
+        "songTime": "01:53:31",
+        "songLink": "https://www.youtube.com/watch?v=1zL4KP8rhxE&t=6811s"
+      }
+    ]
+  },
+  {
     date: "2023/7/15",
     streamName: "【#夏季大三角歌回接力】陪泥一起唱歌看星星✨ ",
     showList: true,
@@ -876,7 +975,7 @@ export default [
       {
         "showDate": true,
         "songName": "生日快樂歌",
-        "singer": "",
+        "singer": "闇音ネル",
         "songTime": "00:51:59",
         "songLink": "https://www.youtube.com/watch?v=myMqAdzsomw&t=3119s"
       },
@@ -957,12 +1056,6 @@ export default [
         "singer": "Della丁噹",
         "songTime": "00:24:06",
         "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=1446s"
-      },
-      {
-        "showDate": true,
-        "songName": "尼為什麼說言荒",
-        "songTime": "00:32:05",
-        "songLink": "https://www.youtube.com/watch?v=nESj2HZ4Nbg&t=1925s"
       },
       {
         "showDate": true,
