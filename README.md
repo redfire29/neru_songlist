@@ -1,9 +1,12 @@
-# 這是非官方自製的 [Neru Ch. 闇音ネル](https://www.youtube.com/@neruch.7527) 歌單列表合集, 可能會有遺漏, 請多包涵！
+# 這是非官方自製的 [Neru Ch. 闇音ネル](https://www.youtube.com/@YamineNeru_VTuber) 歌單列表合集, 可能會有遺漏, 請多包涵！
 
 [歌曲列表網址](https://redfire29.github.io/neru_songlist/)
 
 ### 更新list  
 ```
+2023/8/7
+- 新增【Ado限定歌回】捏嚕訂閱衝刺中！來看看有沒有你最愛ㄉ那首歌！
+
 2023/7/27
 - 新增【午間歌雜】颱風來ㄌ...來唱一點歌然後聊很多天！！！
 

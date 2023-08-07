@@ -1,5 +1,132 @@
 export default [
   {
+    date: "2023/8/6",
+    streamName: "【Ado限定歌回】捏嚕訂閱衝刺中！來看看有沒有你最愛ㄉ那首歌！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "踊",
+        "singer": "Ado",
+        "songTime": "00:13:02",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=782s"
+      },
+      {
+        "showDate": true,
+        "songName": "逆光",
+        "singer": "Ado",
+        "songTime": "00:19:35",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=1175s"
+      },
+      {
+        "showDate": true,
+        "songName": "うっせぇわ",
+        "singer": "Ado",
+        "songTime": "00:32:09",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=1929s"
+      },
+      {
+        "showDate": true,
+        "songName": "私は最強",
+        "singer": "Ado",
+        "songTime": "00:39:09",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=2349s"
+      },
+      {
+        "showDate": true,
+        "songName": "ギラギラ",
+        "singer": "Ado",
+        "songTime": "00:48:13",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=2893s"
+      },
+      {
+        "showDate": true,
+        "songName": "阿修羅ちゃん",
+        "singer": "Ado",
+        "songTime": "01:03:10",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=3790s"
+      },
+      {
+        "showDate": true,
+        "songName": "永遠のあくる日",
+        "singer": "Ado",
+        "songTime": "01:09:35",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=4175s"
+      },
+      {
+        "showDate": true,
+        "songName": "レディメイド",
+        "singer": "Ado",
+        "songTime": "01:16:23",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=4583s"
+      },
+      {
+        "showDate": true,
+        "songName": "ウタカタララバイ",
+        "singer": "Ado",
+        "songTime": "01:22:44",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=4964s"
+      },
+      {
+        "showDate": true,
+        "songName": "行方知れず",
+        "singer": "Ado",
+        "songTime": "01:29:27",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=5367s"
+      },
+      {
+        "showDate": true,
+        "songName": "向日葵",
+        "singer": "Ado",
+        "songTime": "01:40:58",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=6058s"
+      },
+      {
+        "showDate": true,
+        "songName": "ラブカ",
+        "singer": "Ado",
+        "songTime": "01:47:03",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=6423s"
+      },
+      {
+        "showDate": true,
+        "songName": "会いたくて",
+        "singer": "Ado",
+        "songTime": "01:51:41",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=6701s"
+      },
+      {
+        "showDate": true,
+        "songName": "新時代",
+        "singer": "Ado",
+        "songTime": "01:57:43",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=7063s"
+      },
+      {
+        "showDate": true,
+        "songName": "いばら",
+        "singer": "Ado",
+        "songTime": "02:06:20",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=7580s"
+      },
+      {
+        "showDate": true,
+        "songName": "風のゆくえ",
+        "singer": "Ado",
+        "songTime": "02:13:52",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=8032s"
+      },
+      {
+        "showDate": true,
+        "songName": "Tot Musica",
+        "singer": "Ado",
+        "songTime": "02:22:17",
+        "songLink": "https://www.youtube.com/watch?v=J2ykR8UuVEY&t=8537s"
+      }
+    ]
+  },
+  {
     date: "2023/7/26",
     streamName: "【午間歌雜】颱風來ㄌ...來唱一點歌然後聊很多天！！！ ",
     showList: true,

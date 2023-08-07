@@ -112,7 +112,7 @@ div(class="max-w-screen-md")
   div(class="border-solid border-2 mb-1 p-1 bg-white")
     p
       span(class="text-gray-600") 公告：這是非官方自製的 
-      a(href="https://www.youtube.com/@neruch.7527", target="_blank", class="text-[#574281]") Neru Ch. 闇音ネル 
+      a(href="https://www.youtube.com/@YamineNeru_VTuber", target="_blank", class="text-[#574281]") Neru Ch. 闇音ネル 
       span(class="text-gray-600") 歌單列表合集, 可能會有遺漏, 請多包涵！
   .timetaglist.border-solid.border-2.mb-1.p-1
     h1.text-2xl 感謝時間軸標記：
