@@ -156,7 +156,9 @@ div(class="max-w-screen-md")
       .song(v-for="song in get(songData, 'songList')", v-show="get(songData, 'showList') && get(song, 'showDate')")
         a(:href="get(song, 'songLink')", target='_blank', class="text-lg")
           p
-            span {{`${get(song, 'songName')} / ${get(song, 'singer')}`}}
+            span {{`${get(song, 'songName')} 
+            span(v-if="get(song, 'singer')") / 
+            span(v-if="get(song, 'singer')") ${get(song, 'singer')}`}}
 </template>
 
 <style scoped>

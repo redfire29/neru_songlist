@@ -289,7 +289,8 @@ export default [
       },
       {
         "showDate": true,
-        "singer": "王心凌- 黏黏黏黏",
+        "songName": "黏黏黏黏",
+        "singer": "王心凌",
         "songTime": "01:30:22",
         "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=5422s"
       },
@@ -463,7 +464,7 @@ export default [
       },
       {
         "showDate": true,
-        "singer": "哈基米歌",
+        "songName": "哈基米歌",
         "songTime": "04:35:39",
         "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=16539s"
       }
@@ -533,19 +534,19 @@ export default [
       },
       {
         "showDate": true,
-        "singer": "HAPPYHAPPYHAPPY",
+        "songName": "HAPPYHAPPYHAPPY",
         "songTime": "01:33:55",
         "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=5635s"
       },
       {
         "showDate": true,
-        "singer": "晚安瑪卡巴卡",
+        "songName": "晚安瑪卡巴卡",
         "songTime": "01:36:36",
         "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=5796s"
       },
       {
         "showDate": true,
-        "singer": "寶寶晚安",
+        "songName": "寶寶晚安",
         "songTime": "01:38:41",
         "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=5921s"
       },
