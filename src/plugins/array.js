@@ -134,7 +134,8 @@ export default [
       },
       {
         "showDate": true,
-        "singer": "小手拉大手mix風になる",
+        "songName": "小手拉大手",
+        "singer": "梁靜茹(mix風になる)",
         "songTime": "00:42:37",
         "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=2557s"
       },
