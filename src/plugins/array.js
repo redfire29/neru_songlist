@@ -1331,7 +1331,8 @@ export default [
       },
       {
         "showDate": true,
-        "singer": "ロイ ",
+        "songName": "ロイ",
+        "singer": "RöE - チャイナアドバイス",
         "songTime": "00:34:25",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=2065s"
       },
@@ -1556,7 +1557,8 @@ export default [
       },
       {
         "showDate": true,
-        "singer": "ずっと真夜中でいいのに。- 秒針を噛む",
+        "songName": "秒針を噛む",
+        "singer": "ずっと真夜中でいいのに。",
         "songTime": "00:47:38",
         "songLink": "https://www.youtube.com/watch?v=5S8xF12OypM&t=2858s"
       },
