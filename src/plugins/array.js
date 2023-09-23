@@ -1,5 +1,726 @@
 export default [
   {
+    date: "2023/9/17",
+    streamName: "【電影主題曲歌枠】今晚來唱那些年我們看過的電影♡",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "如果可以 (月老)",
+        "singer": "韋禮安",
+        "songTime": "00:09:38",
+        "songLink": "https://www.youtube.com/watch?v=U_z7E7vS66Q&t=578s"
+      },
+      {
+        "showDate": true,
+        "songName": "Heavenly Days (戀空)",
+        "singer": "新垣結衣",
+        "songTime": "00:23:06",
+        "songLink": "https://www.youtube.com/watch?v=U_z7E7vS66Q&t=1386s"
+      },
+      {
+        "showDate": true,
+        "songName": "Mamma Mia (媽媽咪呀！)",
+        "singer": "Abba",
+        "songTime": "00:34:32",
+        "songLink": "https://www.youtube.com/watch?v=U_z7E7vS66Q&t=2072s"
+      },
+      {
+        "showDate": true,
+        "songName": "The Climb (孟漢娜)",
+        "singer": "Miley Cyrus",
+        "songTime": "00:54:05",
+        "songLink": "https://www.youtube.com/watch?v=U_z7E7vS66Q&t=3245s"
+      },
+      {
+        "showDate": true,
+        "songName": "The Climb (孟漢娜) (復仇)",
+        "singer": "Miley Cyrus",
+        "songTime": "00:57:44",
+        "songLink": "https://www.youtube.com/watch?v=U_z7E7vS66Q&t=3464s"
+      },
+      {
+        "showDate": true,
+        "songName": "Lost Stars (曼哈頓戀習曲)",
+        "singer": "Adam Levine",
+        "songTime": "01:08:20",
+        "songLink": "https://www.youtube.com/watch?v=U_z7E7vS66Q&t=4100s"
+      },
+      {
+        "showDate": true,
+        "songName": "虹 (Stand by me)",
+        "singer": "菅田将暉",
+        "songTime": "01:23:43",
+        "songLink": "https://www.youtube.com/watch?v=U_z7E7vS66Q&t=5023s"
+      },
+      {
+        "showDate": true,
+        "songName": "ハルノヒ (蠟筆小新電影版-新婚旅行風暴)",
+        "singer": "あいみょん",
+        "songTime": "01:33:50",
+        "songLink": "https://www.youtube.com/watch?v=U_z7E7vS66Q&t=5630s"
+      },
+      {
+        "showDate": true,
+        "songName": "聽見下雨的聲音 (聽見下雨的聲音)",
+        "singer": "魏如昀",
+        "songTime": "01:49:15",
+        "songLink": "https://www.youtube.com/watch?v=U_z7E7vS66Q&t=6555s"
+      },
+      {
+        "showDate": true,
+        "songName": "City of Stars (La La Land)",
+        "singer": "Ryan Gosling&Emma Stone",
+        "songTime": "01:54:33",
+        "songLink": "https://www.youtube.com/watch?v=U_z7E7vS66Q&t=6873s"
+      }
+    ]
+  },
+  {
+    date: "2023/9/1",
+    streamName: "【烏克麗麗雜彈】來彈彈唱唱一些會開心ㄉ歌！還有感謝昨天ㄉSC會籍贈訂！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "C大調",
+        "singer": "張韶涵",
+        "songTime": "00:14:04",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=844s"
+      },
+      {
+        "showDate": true,
+        "songName": "小さな恋のうた",
+        "singer": "MONGOL800",
+        "songTime": "00:16:57",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=1017s"
+      },
+      {
+        "showDate": true,
+        "songName": "好想你",
+        "singer": "四葉草",
+        "songTime": "00:19:56",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=1196s"
+      },
+      {
+        "showDate": true,
+        "songName": "繼續-給15歲的自己",
+        "singer": "劉若英",
+        "songTime": "00:23:30",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=1410s"
+      },
+      {
+        "showDate": true,
+        "songName": "我的秘密",
+        "singer": "鄧紫棋",
+        "songTime": "00:31:10",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=1870s"
+      },
+      {
+        "showDate": true,
+        "songName": "傷心酒店",
+        "singer": "江蕙&施文彬",
+        "songTime": "00:35:22",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=2122s"
+      },
+      {
+        "showDate": true,
+        "songName": "小手拉大手",
+        "singer": "梁靜茹",
+        "songTime": "00:38:24",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=2304s"
+      },
+      {
+        "showDate": true,
+        "singer": "小手拉大手mix風になる",
+        "songTime": "00:42:37",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=2557s"
+      },
+      {
+        "showDate": true,
+        "songName": "ミカヅキ",
+        "singer": "酸欠少女さユり",
+        "songTime": "00:47:22",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=2842s"
+      },
+      {
+        "showDate": true,
+        "songName": "ミカヅキ",
+        "singer": "酸欠少女さユり",
+        "songTime": "00:50:35",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=3035s"
+      },
+      {
+        "showDate": true,
+        "songName": "天黑黑",
+        "singer": "孫燕姿",
+        "songTime": "01:00:17",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=3617s"
+      },
+      {
+        "showDate": true,
+        "songName": "天黑黑",
+        "singer": "孫燕姿",
+        "songTime": "01:04:55",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=3895s"
+      },
+      {
+        "showDate": true,
+        "songName": "愛你",
+        "singer": "陳芳語",
+        "songTime": "01:10:52",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=4252s"
+      },
+      {
+        "showDate": true,
+        "songName": "理想情人",
+        "singer": "楊丞琳",
+        "songTime": "01:19:18",
+        "songLink": "https://www.youtube.com/watch?v=imov5XXtstQ&t=4758s"
+      }
+    ]
+  },
+  {
+    date: "2023/8/31",
+    streamName: "【#VoiceTo16歌回接力】咪哭生日快樂樂！這次不會再講成歌力接回ㄉ✨",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "千本桜",
+        "singer": "初音ミク",
+        "songTime": "00:03:55",
+        "songLink": "https://www.youtube.com/watch?v=G9x0i4tuWcg&t=235s"
+      },
+      {
+        "showDate": true,
+        "songName": "エイリアンエイリアン",
+        "singer": "初音ミク",
+        "songTime": "00:14:21",
+        "songLink": "https://www.youtube.com/watch?v=G9x0i4tuWcg&t=861s"
+      },
+      {
+        "showDate": true,
+        "songName": "ヴァンパイア",
+        "singer": "初音ミク",
+        "songTime": "00:22:38",
+        "songLink": "https://www.youtube.com/watch?v=G9x0i4tuWcg&t=1358s"
+      },
+      {
+        "showDate": true,
+        "songName": "デーモンロード",
+        "singer": "初音ミク",
+        "songTime": "00:29:36",
+        "songLink": "https://www.youtube.com/watch?v=G9x0i4tuWcg&t=1776s"
+      }
+    ]
+  },
+  {
+    date: "2023/8/26",
+    streamName: "【耐久歌枠】出道21個月了♡謝謝你們的陪伴",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "オトナブルー",
+        "singer": "ATARASHII GAKKO!",
+        "songTime": "00:10:46",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=646s"
+      },
+      {
+        "showDate": true,
+        "songName": "酔いどれ知らず",
+        "singer": "Kanaria",
+        "songTime": "00:16:47",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=1007s"
+      },
+      {
+        "showDate": true,
+        "songName": "愛無赦",
+        "singer": "蔡依林",
+        "songTime": "00:23:42",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=1422s"
+      },
+      {
+        "showDate": true,
+        "songName": "愛情恰恰",
+        "singer": "陳小雲",
+        "songTime": "00:32:05",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=1925s"
+      },
+      {
+        "showDate": true,
+        "songName": "傷心酒店",
+        "singer": "江蕙&施文彬",
+        "songTime": "00:40:35",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=2435s"
+      },
+      {
+        "showDate": true,
+        "songName": "歌舞伎町の女王",
+        "singer": "椎名林檎",
+        "songTime": "00:48:40",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=2920s"
+      },
+      {
+        "showDate": true,
+        "songName": "有沒有",
+        "singer": "By2",
+        "songTime": "01:07:20",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=4040s"
+      },
+      {
+        "showDate": true,
+        "songName": "北国の春",
+        "singer": "千昌夫",
+        "songTime": "01:14:00",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=4440s"
+      },
+      {
+        "showDate": true,
+        "songName": "ドラえもんのうた",
+        "singer": "大杉久美子",
+        "songTime": "01:21:32",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=4892s"
+      },
+      {
+        "showDate": true,
+        "singer": "王心凌- 黏黏黏黏",
+        "songTime": "01:30:22",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=5422s"
+      },
+      {
+        "showDate": true,
+        "songName": "桃色片想い",
+        "singer": "松浦亞彌",
+        "songTime": "01:35:47",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=5747s"
+      },
+      {
+        "showDate": true,
+        "songName": "A Thousand Years",
+        "singer": "Christina Perri",
+        "songTime": "01:41:27",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=6087s"
+      },
+      {
+        "showDate": true,
+        "songName": "Zombie",
+        "singer": "The Cranberries",
+        "songTime": "01:48:14",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=6494s"
+      },
+      {
+        "showDate": true,
+        "songName": "真夜中のドア~Stay with me",
+        "singer": "松原美紀",
+        "songTime": "01:54:43",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=6883s"
+      },
+      {
+        "showDate": true,
+        "songName": "プラスティック・ラブ",
+        "singer": "竹内まりや",
+        "songTime": "02:01:38",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=7298s"
+      },
+      {
+        "showDate": true,
+        "songName": "虹",
+        "singer": "菅田將暉",
+        "songTime": "02:13:37",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=8017s"
+      },
+      {
+        "showDate": true,
+        "songName": "野子",
+        "singer": "蘇運瑩",
+        "songTime": "02:20:16",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=8416s"
+      },
+      {
+        "showDate": true,
+        "songName": "假裝",
+        "singer": "蔡依林",
+        "songTime": "02:28:35",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=8915s"
+      },
+      {
+        "showDate": true,
+        "songName": "bad guy",
+        "singer": "Billie Eilish",
+        "songTime": "02:35:55",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=9355s"
+      },
+      {
+        "showDate": true,
+        "songName": "貴方解剖純愛歌 〜死ね〜",
+        "singer": "あいみょん",
+        "songTime": "02:41:19",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=9679s"
+      },
+      {
+        "showDate": true,
+        "songName": "Oz.",
+        "singer": "yama",
+        "songTime": "02:49:52",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=10192s"
+      },
+      {
+        "showDate": true,
+        "songName": "What Was I Made For?",
+        "singer": "Billie Eilish",
+        "songTime": "02:54:58",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=10498s"
+      },
+      {
+        "showDate": true,
+        "songName": "ドライフラワー",
+        "singer": "優里",
+        "songTime": "02:59:56",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=10796s"
+      },
+      {
+        "showDate": true,
+        "songName": "彼個所在",
+        "singer": "魏如萱",
+        "songTime": "03:06:34",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=11194s"
+      },
+      {
+        "showDate": true,
+        "songName": "ふゆびより",
+        "singer": "佐々木恵梨",
+        "songTime": "03:18:20",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=11900s"
+      },
+      {
+        "showDate": true,
+        "songName": "wish you were gay",
+        "singer": "Billie Eilish",
+        "songTime": "03:24:53",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=12293s"
+      },
+      {
+        "showDate": true,
+        "songName": "君はロックを聴かない",
+        "singer": "あいみょん",
+        "songTime": "03:33:09",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=12789s"
+      },
+      {
+        "showDate": true,
+        "songName": "稍息立正站好",
+        "singer": "范曉萱",
+        "songTime": "03:39:16",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=13156s"
+      },
+      {
+        "showDate": true,
+        "songName": "カタオモイ",
+        "singer": "Aimer",
+        "songTime": "03:44:14",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=13454s"
+      },
+      {
+        "showDate": true,
+        "songName": "Beautiful Wish",
+        "singer": "真珠美人魚 星羅",
+        "songTime": "03:51:23",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=13883s"
+      },
+      {
+        "showDate": true,
+        "songName": "Make You Feel My Love",
+        "singer": "Adele",
+        "songTime": "04:01:55",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=14515s"
+      },
+      {
+        "showDate": true,
+        "songName": "是什麼讓我遇見這樣的你",
+        "singer": "白安",
+        "songTime": "04:13:12",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=15192s"
+      },
+      {
+        "showDate": true,
+        "songName": "買你",
+        "singer": "魏如萱",
+        "songTime": "04:18:47",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=15527s"
+      },
+      {
+        "showDate": true,
+        "songName": "陪妳過假日",
+        "singer": "Leo王",
+        "songTime": "04:25:01",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=15901s"
+      },
+      {
+        "showDate": true,
+        "singer": "哈基米歌",
+        "songTime": "04:35:39",
+        "songLink": "https://www.youtube.com/watch?v=tVWtJ755dJ4&t=16539s"
+      }
+    ]
+  },
+  {
+    date: "2023/8/18",
+    streamName: "【深夜歌回】終於又週五啦！聽完靠山發浪再聽阿捏唱歌歌 ",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "我把我的青春給你",
+        "singer": "好樂團",
+        "songTime": "00:11:20",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=680s"
+      },
+      {
+        "showDate": true,
+        "songName": "你朝我的方向走來",
+        "singer": "馬念先&9m88",
+        "songTime": "00:20:45",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=1245s"
+      },
+      {
+        "showDate": true,
+        "songName": "你不知道的事",
+        "singer": "王力宏",
+        "songTime": "00:26:43",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=1603s"
+      },
+      {
+        "showDate": true,
+        "songName": "My Future",
+        "singer": "Billie Eilish",
+        "songTime": "00:33:11",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=1991s"
+      },
+      {
+        "showDate": true,
+        "songName": "說愛你",
+        "singer": "蔡依林",
+        "songTime": "00:39:29",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=2369s"
+      },
+      {
+        "showDate": true,
+        "songName": "向日葵",
+        "singer": "Ado",
+        "songTime": "00:56:38",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=3398s"
+      },
+      {
+        "showDate": true,
+        "songName": "半情歌(清唱)",
+        "singer": "元若藍",
+        "songTime": "01:03:14",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=3794s"
+      },
+      {
+        "showDate": true,
+        "songName": "半情歌",
+        "singer": "元若藍",
+        "songTime": "01:26:06",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=5166s"
+      },
+      {
+        "showDate": true,
+        "singer": "HAPPYHAPPYHAPPY",
+        "songTime": "01:33:55",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=5635s"
+      },
+      {
+        "showDate": true,
+        "singer": "晚安瑪卡巴卡",
+        "songTime": "01:36:36",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=5796s"
+      },
+      {
+        "showDate": true,
+        "singer": "寶寶晚安",
+        "songTime": "01:38:41",
+        "songLink": "https://www.youtube.com/watch?v=CGiq_ENIjVw&t=5921s"
+      },
+    ]
+  },
+  {
+    date: "2023/8/15",
+    streamName: "【烏克麗麗雜彈】原來今天鬼門開！城隍爺ㄉ鬼月教戰守則！！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "我的歌聲裡",
+        "singer": "曲婉婷",
+        "songTime": "00:39:28",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=2368s"
+      },
+      {
+        "showDate": true,
+        "songName": "What Was I Made For?",
+        "singer": "Billie Eilish",
+        "songTime": "00:46:02",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=2762s"
+      },
+      {
+        "showDate": true,
+        "songName": "你就不要想起我",
+        "singer": "田馥甄",
+        "songTime": "00:56:41",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=3401s"
+      },
+      {
+        "showDate": true,
+        "songName": "不醉不會",
+        "singer": "田馥甄",
+        "songTime": "01:05:07",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=3907s"
+      },
+      {
+        "showDate": true,
+        "songName": "魔鬼中的天使",
+        "singer": "田馥甄",
+        "songTime": "01:10:38",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=4238s"
+      },
+      {
+        "showDate": true,
+        "songName": "野子",
+        "singer": "蘇運瑩",
+        "songTime": "01:16:07",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=4567s"
+      },
+      {
+        "showDate": true,
+        "songName": "我知道",
+        "singer": "By2",
+        "songTime": "01:26:37",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=5197s"
+      },
+      {
+        "showDate": true,
+        "songName": "誠實地想你",
+        "singer": "郭采潔",
+        "songTime": "01:53:45",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=6825s"
+      },
+      {
+        "showDate": true,
+        "songName": "彩虹的微笑",
+        "singer": "王心凌",
+        "songTime": "01:57:04",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=7024s"
+      },
+      {
+        "showDate": true,
+        "songName": "怎麼辦",
+        "singer": "S.H.E",
+        "songTime": "02:00:40",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=7240s"
+      },
+      {
+        "showDate": true,
+        "songName": "戀人未滿",
+        "singer": "S.H.E",
+        "songTime": "02:02:00",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=7320s"
+      },
+      {
+        "showDate": true,
+        "songName": "不想長大",
+        "singer": "S.H.E",
+        "songTime": "02:09:43",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=7783s"
+      },
+      {
+        "showDate": true,
+        "songName": "心牆",
+        "singer": "郭靜",
+        "songTime": "02:21:34",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=8494s"
+      },
+      {
+        "showDate": true,
+        "songName": "下一個天亮",
+        "singer": "郭靜",
+        "songTime": "02:26:33",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=8793s"
+      },
+      {
+        "showDate": true,
+        "songName": "人質",
+        "singer": "張惠妹",
+        "songTime": "02:32:26",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=9146s"
+      },
+      {
+        "showDate": true,
+        "songName": "小幸運",
+        "singer": "田馥甄",
+        "songTime": "02:34:55",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=9295s"
+      },
+      {
+        "showDate": true,
+        "songName": "殺死那個石家莊人",
+        "singer": "萬能青年旅店",
+        "songTime": "02:39:00",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=9540s"
+      },
+      {
+        "showDate": true,
+        "songName": "還是要幸福",
+        "singer": "田馥甄",
+        "songTime": "02:44:09",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=9849s"
+      },
+      {
+        "showDate": true,
+        "songName": "C大調",
+        "singer": "張韶涵",
+        "songTime": "02:47:30",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=10050s"
+      },
+      {
+        "showDate": true,
+        "songName": "頭號甜心",
+        "singer": "張韶涵",
+        "songTime": "02:50:30",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=10230s"
+      },
+      {
+        "showDate": true,
+        "songName": "隱形的翅膀",
+        "singer": "張韶涵",
+        "songTime": "02:52:43",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=10363s"
+      },
+      {
+        "showDate": true,
+        "songName": "Wish You Were Here",
+        "singer": "​Avril Lavigne",
+        "songTime": "02:56:58",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=10618s"
+      },
+      {
+        "showDate": true,
+        "songName": "When You're Gone",
+        "singer": "​Avril Lavigne",
+        "songTime": "02:58:41",
+        "songLink": "https://www.youtube.com/watch?v=78Gv_cgPLuU&t=10721s"
+      }
+    ]
+  },
+  {
     date: "2023/8/6",
     streamName: "【Ado限定歌回】捏嚕訂閱衝刺中！來看看有沒有你最愛ㄉ那首歌！",
     showList: true,
