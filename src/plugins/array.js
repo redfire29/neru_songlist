@@ -1,5 +1,322 @@
 export default [
   {
+    date: "2023/11/5",
+    streamName: "【深夜歌枠】明天又週一啦！讓捏嚕ㄉ歌聲陪你最後ㄉ假日時光",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "言って。",
+        "singer": "ヨルシカ",
+        "songTime": "00:15:46",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=946s"
+      },
+      {
+        "showDate": true,
+        "songName": "暖心",
+        "singer": "郁可唯",
+        "songTime": "00:24:40",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=1480s"
+      },
+      {
+        "showDate": true,
+        "songName": "恐龍扛狼",
+        "singer": "雲南權妹",
+        "songTime": "00:36:08",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=2168s"
+      },
+      {
+        "showDate": true,
+        "songName": "瀟灑小姐",
+        "singer": "蕭亞軒",
+        "songTime": "00:43:44",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=2624s"
+      },
+      {
+        "showDate": true,
+        "songName": "你要不要吃哈密瓜",
+        "singer": "告五人",
+        "songTime": "00:54:45",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=3285s"
+      },
+      {
+        "showDate": true,
+        "songName": "遇見",
+        "singer": "孫燕姿",
+        "songTime": "01:10:40",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=4240s"
+      },
+      {
+        "showDate": true,
+        "songName": "匿名的好友",
+        "singer": "楊丞琳",
+        "songTime": "01:22:40",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=4960s"
+      },
+      {
+        "showDate": true,
+        "songName": "Talking To The Moon",
+        "singer": "Bruno Mars",
+        "songTime": "01:30:47",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=5447s"
+      },
+      {
+        "showDate": true,
+        "songName": "I Knew You Were Trouble",
+        "singer": "Taylor Swift",
+        "songTime": "01:36:21",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=5781s"
+      },
+      {
+        "showDate": true,
+        "songName": "悪魔の子",
+        "singer": "ヒグチアイ",
+        "songTime": "01:42:20",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=6140s"
+      },
+      {
+        "showDate": true,
+        "songName": "言って。",
+        "singer": "ヨルシカ",
+        "songTime": "01:54:48",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=6888s"
+      },
+      {
+        "showDate": true,
+        "songName": "花若離枝 (清唱副歌)",
+        "singer": "江蕙",
+        "songTime": "02:02:17",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=7337s"
+      },
+      {
+        "showDate": true,
+        "songName": "風吹的願望 (清唱一段)",
+        "singer": "江蕙",
+        "songTime": "02:06:28",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=7588s"
+      },
+      {
+        "showDate": true,
+        "songName": "花若離枝 (清唱副歌)",
+        "singer": "江蕙",
+        "songTime": "02:24:48",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=8688s"
+      },
+      {
+        "showDate": true,
+        "songName": "悪魔の子",
+        "singer": "ヒグチアイ",
+        "songTime": "02:26:36",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=8796s"
+      },
+      {
+        "showDate": true,
+        "songName": "逆光",
+        "singer": "Ado",
+        "songTime": "02:36:34",
+        "songLink": "https://www.youtube.com/watch?v=7Q2nWz6AJrc&t=9394s"
+      }
+    ]
+  },
+  {
+    date: "2023/10/20",
+    streamName: "【突發歌枠】忙忙ㄉ一週還是想找個時間唱點歌♡",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "丸の内サディスティック",
+        "singer": "椎名林檎",
+        "songTime": "00:03:46",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=226s"
+      },
+      {
+        "showDate": true,
+        "songName": "今夜このまま (千萬不要點 !!)",
+        "singer": "あいみょん",
+        "songTime": "00:11:13",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=673s"
+      },
+      {
+        "showDate": true,
+        "songName": "永遠のあくる日",
+        "singer": "Ado",
+        "songTime": "00:16:47",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=1007s"
+      },
+      {
+        "showDate": true,
+        "songName": "秒針を噛む",
+        "singer": "ずっと真夜中でいいのに。",
+        "songTime": "00:23:31",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=1411s"
+      },
+      {
+        "showDate": true,
+        "songName": "紅豆",
+        "singer": "王菲",
+        "songTime": "00:29:12",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=1752s"
+      },
+      {
+        "showDate": true,
+        "songName": "Zombie",
+        "singer": "The Cranberries",
+        "songTime": "00:37:17",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=2237s"
+      },
+      {
+        "showDate": true,
+        "songName": "明け星",
+        "singer": "LiSA ",
+        "songTime": "00:43:45",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=2625s"
+      },
+      {
+        "showDate": true,
+        "songName": "燈",
+        "singer": "崎山蒼志",
+        "songTime": "00:50:30",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=3030s"
+      },
+      {
+        "showDate": true,
+        "songName": "ファンサ",
+        "singer": "mona",
+        "songTime": "00:57:30",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=3450s"
+      },
+      {
+        "showDate": true,
+        "songName": "The One That Got Away",
+        "singer": "Katy Perry",
+        "songTime": "01:04:49",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=3889s"
+      },
+      {
+        "showDate": true,
+        "songName": "Creep",
+        "singer": "Radiohead",
+        "songTime": "01:09:29",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=4169s"
+      },
+      {
+        "showDate": true,
+        "songName": "Fly Me To The Moon",
+        "singer": "Frank Sinatra",
+        "songTime": "01:21:43",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=4903s"
+      },
+      {
+        "showDate": true,
+        "songName": "ODDTAXI",
+        "singer": "スカートとPUNPEE",
+        "songTime": "01:27:14",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=5234s"
+      },
+      {
+        "showDate": true,
+        "songName": "可愛巧虎島片頭曲",
+        "songTime": "01:29:18",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=5358s"
+      },
+      {
+        "showDate": true,
+        "songName": "Six Feet Under",
+        "singer": "Billie Eilish",
+        "songTime": "01:30:54",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=5454s"
+      },
+      {
+        "showDate": true,
+        "songName": "恋ノ行方",
+        "singer": "あかせあかり",
+        "songTime": "01:37:03",
+        "songLink": "https://www.youtube.com/watch?v=f1oPHFr3hIw&t=5823s"
+      }
+    ]
+  },
+  {
+    date: "2023/10/07",
+    streamName: "【連假午間歌枠】連假ㄉ第一天下午讓阿捏唱唱歌陪泥♡",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "グレイ",
+        "singer": " sajou no hana",
+        "songTime": "00:15:45",
+        "songLink": "https://www.youtube.com/watch?v=jITvWty7dEY&t=945s"
+      },
+      {
+        "showDate": true,
+        "songName": "プラスティック・ラブ ",
+        "singer": " 竹内まりや",
+        "songTime": "00:23:10",
+        "songLink": "https://www.youtube.com/watch?v=jITvWty7dEY&t=1390s"
+      },
+      {
+        "showDate": true,
+        "songName": "真夜中のドア~Stay with Me",
+        "singer": " 松原みき",
+        "songTime": "00:29:38",
+        "songLink": "https://www.youtube.com/watch?v=jITvWty7dEY&t=1778s"
+      },
+      {
+        "showDate": true,
+        "songName": "怪獣の花唄",
+        "singer": " Vaundy",
+        "songTime": "00:39:37",
+        "songLink": "https://www.youtube.com/watch?v=jITvWty7dEY&t=2377s"
+      },
+      {
+        "showDate": true,
+        "songName": "燈",
+        "singer": " 崎山蒼志",
+        "songTime": "00:48:33",
+        "songLink": "https://www.youtube.com/watch?v=jITvWty7dEY&t=2913s"
+      },
+      {
+        "showDate": true,
+        "songName": "If I Were A Boy",
+        "singer": " Beyoncé",
+        "songTime": "00:53:57",
+        "songLink": "https://www.youtube.com/watch?v=jITvWty7dEY&t=3237s"
+      },
+      {
+        "showDate": true,
+        "songName": "レオ",
+        "singer": " 優里",
+        "songTime": "01:05:29",
+        "songLink": "https://www.youtube.com/watch?v=jITvWty7dEY&t=3929s"
+      },
+      {
+        "showDate": true,
+        "songName": "ドライフラワー",
+        "singer": " 優里",
+        "songTime": "01:27:52",
+        "songLink": "https://www.youtube.com/watch?v=jITvWty7dEY&t=5272s"
+      },
+      {
+        "showDate": true,
+        "songName": "祝福",
+        "singer": " YOASOBI",
+        "songTime": "01:41:18",
+        "songLink": "https://www.youtube.com/watch?v=jITvWty7dEY&t=6078s"
+      },
+      {
+        "showDate": true,
+        "songName": "左右盲",
+        "singer": " ヨルシカ",
+        "songTime": "01:47:53",
+        "songLink": "https://www.youtube.com/watch?v=jITvWty7dEY&t=6473s"
+      }
+    ]
+  },
+  {
     date: "2023/9/17",
     streamName: "【電影主題曲歌枠】今晚來唱那些年我們看過的電影♡",
     showList: true,
