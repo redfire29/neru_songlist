@@ -1,5 +1,83 @@
 export default [
   {
+    date: "2023/11/16",
+    streamName: "【失戀歌枠】心痛比快樂更真實...不管有失戀過沒失戀過都可以進來一起哭哭！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "ドライフラワー",
+        "singer": "優里",
+        "songTime": "00:27:15",
+        "songLink": "https://www.youtube.com/watch?v=yJebq_WdQVI&t=1635s"
+      },
+      {
+        "showDate": true,
+        "songName": "妥協",
+        "singer": "蔡依林",
+        "songTime": "00:40:11",
+        "songLink": "https://www.youtube.com/watch?v=yJebq_WdQVI&t=2411s"
+      },
+      {
+        "showDate": true,
+        "songName": "失戀無罪",
+        "singer": "A-Lin",
+        "songTime": "01:00:55",
+        "songLink": "https://www.youtube.com/watch?v=yJebq_WdQVI&t=3655s"
+      },
+      {
+        "showDate": true,
+        "songName": "You Give Love A Bad Name",
+        "singer": "Bon Jovi",
+        "songTime": "01:24:15",
+        "songLink": "https://www.youtube.com/watch?v=yJebq_WdQVI&t=5055s"
+      },
+      {
+        "showDate": true,
+        "songName": "初恋が泣いている",
+        "singer": "あいみょん",
+        "songTime": "01:29:03",
+        "songLink": "https://www.youtube.com/watch?v=yJebq_WdQVI&t=5343s"
+      },
+      {
+        "showDate": true,
+        "songName": "花",
+        "singer": "Hello Nico",
+        "songTime": "01:52:41",
+        "songLink": "https://www.youtube.com/watch?v=yJebq_WdQVI&t=6761s"
+      },
+      {
+        "showDate": true,
+        "songName": "逢いたくていま",
+        "singer": "MISIA",
+        "songTime": "02:01:45",
+        "songLink": "https://www.youtube.com/watch?v=yJebq_WdQVI&t=7305s"
+      },
+      {
+        "showDate": true,
+        "songName": "給我一個理由忘記",
+        "singer": "A-Lin",
+        "songTime": "02:08:48",
+        "songLink": "https://www.youtube.com/watch?v=yJebq_WdQVI&t=7728s"
+      },
+      {
+        "showDate": true,
+        "songName": "Someone Like You",
+        "singer": "Adele",
+        "songTime": "02:33:35",
+        "songLink": "https://www.youtube.com/watch?v=yJebq_WdQVI&t=9215s"
+      },
+      {
+        "showDate": true,
+        "songName": "下雨天",
+        "singer": "南拳媽媽",
+        "songTime": "02:47:17",
+        "songLink": "https://www.youtube.com/watch?v=yJebq_WdQVI&t=10037s"
+      },
+    ]
+  },
+  {
     date: "2023/11/5",
     streamName: "【深夜歌枠】明天又週一啦！讓捏嚕ㄉ歌聲陪你最後ㄉ假日時光",
     showList: true,
