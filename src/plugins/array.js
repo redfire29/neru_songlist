@@ -1,5 +1,323 @@
 export default [
   {
+    date: "2024/1/19",
+    streamName: "【縱型深夜歌枠】日文片假名限定歌回💜今天可以達到1.9萬嗎！！！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "エジソン",
+        "singer": "水曜日のカンパネラ",
+        "songTime": "00:11:54",
+        "songLink": "https://www.youtube.com/watch?v=SZ51EYhAiSg&t=714s"
+      },
+      {
+        "showDate": true,
+        "songName": "プラチナ",
+        "singer": "坂本真綾",
+        "songTime": "00:23:00",
+        "songLink": "https://www.youtube.com/watch?v=SZ51EYhAiSg&t=1380s"
+      },
+      {
+        "showDate": true,
+        "songName": "コネクト",
+        "singer": "ClariS",
+        "songTime": "00:33:16",
+        "songLink": "https://www.youtube.com/watch?v=SZ51EYhAiSg&t=1996s"
+      },
+      {
+        "showDate": true,
+        "songName": "レオ",
+        "singer": "優里",
+        "songTime": "01:06:02",
+        "songLink": "https://www.youtube.com/watch?v=SZ51EYhAiSg&t=3962s"
+      },
+      {
+        "showDate": true,
+        "songName": "ブルーバード",
+        "singer": "いきものがかり",
+        "songTime": "01:13:49",
+        "songLink": "https://www.youtube.com/watch?v=SZ51EYhAiSg&t=4429s"
+      },
+      {
+        "showDate": true,
+        "songName": "ミカヅキ",
+        "singer": "酸欠少女さユり",
+        "songTime": "01:34:58",
+        "songLink": "https://www.youtube.com/watch?v=SZ51EYhAiSg&t=5698s"
+      },
+      {
+        "showDate": true,
+        "songName": "Idol (アイドル)",
+        "singer": "YOASOBI",
+        "songTime": "01:43:49",
+        "songLink": "https://www.youtube.com/watch?v=SZ51EYhAiSg&t=6229s"
+      },
+      {
+        "showDate": true,
+        "songName": "ドライフラワー",
+        "singer": "優里",
+        "songTime": "01:48:55",
+        "songLink": "https://www.youtube.com/watch?v=SZ51EYhAiSg&t=6535s"
+      },
+      {
+        "showDate": true,
+        "songName": "カタオモイ",
+        "singer": "Aimer",
+        "songTime": "01:55:48",
+        "songLink": "https://www.youtube.com/watch?v=SZ51EYhAiSg&t=6948s"
+      },
+      {
+        "showDate": true,
+        "songName": "ハルカ",
+        "singer": "YOASOBI",
+        "songTime": "02:04:48",
+        "songLink": "https://www.youtube.com/watch?v=SZ51EYhAiSg&t=7488s"
+      }
+    ]
+  },
+  {
+    date: "2023/12/29",
+    streamName: "【突發歌枠】2023最後ㄉ歌回💜突然想隨便唱唱歌！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "暖心",
+        "singer": "郁可唯",
+        "songTime": "00:05:39",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=339s"
+      },
+      {
+        "showDate": true,
+        "songName": "微加幸福",
+        "singer": "郁可唯",
+        "songTime": "00:11:15",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=675s"
+      },
+      {
+        "showDate": true,
+        "songName": "馬德里不思議",
+        "singer": "蔡依林",
+        "songTime": "00:18:34",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=1114s"
+      },
+      {
+        "showDate": true,
+        "songName": "夜來香",
+        "singer": "鄧麗君",
+        "songTime": "00:24:33",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=1473s"
+      },
+      {
+        "showDate": true,
+        "songName": "女人花",
+        "singer": "梅艷芳",
+        "songTime": "00:30:04",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=1804s"
+      },
+      {
+        "showDate": true,
+        "songName": "姊姊妹妹站起來",
+        "singer": "陶晶瑩",
+        "songTime": "00:36:43",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=2203s"
+      },
+      {
+        "showDate": true,
+        "songName": "POP TEAM EPIC",
+        "singer": "上坂すみれ",
+        "songTime": "00:44:20",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=2660s"
+      },
+      {
+        "showDate": true,
+        "songName": "おジャ魔女カーニバル!!",
+        "singer": "MAHO堂",
+        "songTime": "00:53:06",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=3186s"
+      },
+      {
+        "showDate": true,
+        "songName": "めざせポケモンマスター",
+        "singer": "松本梨香",
+        "songTime": "00:59:46",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=3586s"
+      },
+      {
+        "showDate": true,
+        "songName": "親愛的那不是愛情",
+        "singer": "張韶涵",
+        "songTime": "01:12:28",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=4348s"
+      },
+      {
+        "showDate": true,
+        "songName": "LOVEマシーン",
+        "singer": "モーニング娘。",
+        "songTime": "01:25:36",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=5136s"
+      },
+      {
+        "showDate": true,
+        "songName": "ちゅ、多様性。",
+        "singer": "ano",
+        "songTime": "01:32:03",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=5523s"
+      },
+      {
+        "showDate": true,
+        "songName": "猫",
+        "singer": "DISH//",
+        "songTime": "01:36:40",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=5800s"
+      },
+      {
+        "showDate": true,
+        "songName": "黑粒仔的故事",
+        "singer": "郭桂彬",
+        "songTime": "01:42:52",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=6172s"
+      },
+      {
+        "showDate": true,
+        "songName": "追追追",
+        "singer": "黃妃",
+        "songTime": "01:48:12",
+        "songLink": "https://www.youtube.com/watch?v=CtQOvD4I_1E&t=6492s"
+      }
+    ]
+  },
+  {
+    date: "2023/12/25",
+    streamName: "【#Ado 歌枠】沒搶到ado演唱會ㄉ一起來哭哭....心痛比快樂更真實...！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "うっせぇわ",
+        "singer": "Ado",
+        "songTime": "00:12:33",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=753s"
+      },
+      {
+        "showDate": true,
+        "songName": "ギラギラ",
+        "singer": "Ado",
+        "songTime": "00:24:28",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=1468s"
+      },
+      {
+        "showDate": true,
+        "songName": "永遠のあくる日",
+        "singer": "Ado",
+        "songTime": "00:35:16",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=2116s"
+      },
+      {
+        "showDate": true,
+        "songName": "オールナイトレディオ ",
+        "singer": "Ado",
+        "songTime": "00:44:20",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=2660s"
+      },
+      {
+        "showDate": true,
+        "songName": "レディメイド",
+        "singer": "Ado",
+        "songTime": "00:51:49",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=3109s"
+      },
+      {
+        "showDate": true,
+        "songName": "私は最強",
+        "singer": "Ado",
+        "songTime": "01:14:39",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=4479s"
+      },
+      {
+        "showDate": true,
+        "songName": "阿修羅ちゃん",
+        "singer": "Ado",
+        "songTime": "01:20:21",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=4821s"
+      },
+      {
+        "showDate": true,
+        "songName": "会いたくて",
+        "singer": "Ado",
+        "songTime": "01:25:47",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=5147s"
+      },
+      {
+        "showDate": true,
+        "songName": "ラブカ？",
+        "singer": "Ado",
+        "songTime": "01:33:22",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=5602s"
+      },
+      {
+        "showDate": true,
+        "songName": "ウタカタララバイ",
+        "singer": "Ado",
+        "songTime": "01:38:03",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=5883s"
+      },
+      {
+        "showDate": true,
+        "songName": "Show（唱）",
+        "singer": "Ado",
+        "songTime": "01:43:40",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=6220s"
+      },
+      {
+        "showDate": true,
+        "songName": "いばら",
+        "singer": "Ado",
+        "songTime": "01:49:56",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=6596s"
+      },
+      {
+        "showDate": true,
+        "songName": "Tot Musica",
+        "singer": "Ado",
+        "songTime": "01:57:09",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=7029s"
+      },
+      {
+        "showDate": true,
+        "songName": "向日葵",
+        "singer": "Ado",
+        "songTime": "02:11:44",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=7904s"
+      },
+      {
+        "showDate": true,
+        "songName": "風のゆくえ",
+        "singer": "Ado",
+        "songTime": "02:19:19",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=8359s"
+      },
+      {
+        "showDate": true,
+        "songName": "Overdose",
+        "singer": "なとり",
+        "songTime": "02:27:44",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=8864s"
+      },
+      {
+        "showDate": true,
+        "songName": "健康歌",
+        "singer": "范曉萱",
+        "songTime": "02:24:21",
+        "songLink": "https://www.youtube.com/watch?v=kPrMEkDPWec&t=8661s"
+      }
+    ]
+  },
+  {
     date: "2023/11/16",
     streamName: "【失戀歌枠】心痛比快樂更真實...不管有失戀過沒失戀過都可以進來一起哭哭！",
     showList: true,
