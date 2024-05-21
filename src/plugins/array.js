@@ -1,5 +1,503 @@
 export default [
   {
+    date: "2024/4/24",
+    streamName: "【捐款點歌回】泥捐款我唱歌！一起來讓世界多一點愛💜",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "蘑菇濃湯",
+        "songTime": "00:12:25",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=745s"
+      },
+      {
+        "showDate": true,
+        "songName": "Brave Shine",
+        "singer": "Aimer",
+        "songTime": "00:17:25",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=1045s"
+      },
+      {
+        "showDate": true,
+        "songName": "おジャ魔女カーニバル",
+        "singer": "MAHO堂",
+        "songTime": "00:24:26",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=1466s"
+      },
+      {
+        "showDate": true,
+        "songName": "晚餐歌",
+        "singer": "tuki.",
+        "songTime": "00:29:35",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=1775s"
+      },
+      {
+        "showDate": true,
+        "songName": "ミカヅキ",
+        "singer": "酸欠少女さユり",
+        "songTime": "00:41:45",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=2505s"
+      },
+      {
+        "showDate": true,
+        "songName": "GHOST",
+        "singer": "星街すいせい",
+        "songTime": "00:51:15",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=3075s"
+      },
+      {
+        "showDate": true,
+        "songName": "兩隻老虎",
+        "songTime": "01:03:07",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=3787s"
+      },
+      {
+        "showDate": true,
+        "songName": "ふゆびより",
+        "singer": "佐々木恵梨",
+        "songTime": "01:08:08",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=4088s"
+      },
+      {
+        "showDate": true,
+        "songName": "いばら",
+        "singer": "Ado",
+        "songTime": "01:17:01",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=4621s"
+      },
+      {
+        "showDate": true,
+        "songName": "相信自己",
+        "singer": "真珠美人魚",
+        "songTime": "01:22:46",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=4966s"
+      },
+      {
+        "showDate": true,
+        "songName": "星屑ビーナス",
+        "singer": "Aimer",
+        "songTime": "01:31:48",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=5508s"
+      },
+      {
+        "showDate": true,
+        "songName": "感恩的心",
+        "singer": "歐陽菲菲",
+        "songTime": "01:39:50",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=5990s"
+      },
+      {
+        "showDate": true,
+        "songName": "彼個所在",
+        "singer": "魏如萱",
+        "songTime": "01:46:28",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=6388s"
+      },
+      {
+        "showDate": true,
+        "songName": "是什麼讓我遇見這樣的你",
+        "singer": "白安",
+        "songTime": "01:53:31",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=6811s"
+      },
+      {
+        "showDate": true,
+        "songName": "すずめのがっこう",
+        "songTime": "02:08:15",
+        "songLink": "https://www.youtube.com/watch?v=YtEmTU8v4ws&t=7695s"
+      }
+    ]
+  },
+  {
+    date: "2024/4/12",
+    streamName: "【 縱型配信】又撐過了一週！下班來唱唱歌💕！！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "ギターと孤独と蒼い惑星",
+        "singer": "結束バンド",
+        "songTime": "00:15:49",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=949s"
+      },
+      {
+        "showDate": true,
+        "songName": "チャイナアドバイス",
+        "singer": "相対性理論",
+        "songTime": "00:21:10",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=1270s"
+      },
+      {
+        "showDate": true,
+        "songName": "紅蓮華",
+        "singer": "LiSA",
+        "songTime": "00:25:48",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=1548s"
+      },
+      {
+        "showDate": true,
+        "songName": "罪と罰",
+        "singer": "椎名林檎",
+        "songTime": "00:30:46",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=1846s"
+      },
+      {
+        "showDate": true,
+        "songName": "ドラえもんのうた",
+        "singer": "杉久美子",
+        "songTime": "00:41:04",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=2464s"
+      },
+      {
+        "showDate": true,
+        "songName": "漢堡包",
+        "singer": "鄧福如AFÜ",
+        "songTime": "00:46:27",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=2787s"
+      },
+      {
+        "showDate": true,
+        "songName": "不要問我= =",
+        "singer": "鄧福如AFÜ",
+        "songTime": "00:52:54",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=3174s"
+      },
+      {
+        "showDate": true,
+        "songName": "踊り子",
+        "singer": "Vaundy",
+        "songTime": "00:55:14",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=3314s"
+      },
+      {
+        "showDate": true,
+        "songName": "ふゆびより",
+        "singer": "佐々木恵梨",
+        "songTime": "01:12:02",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=4322s"
+      },
+      {
+        "showDate": true,
+        "songName": "ダンシング・ヒーロー",
+        "singer": "荻野目洋子",
+        "songTime": "01:18:05",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=4685s"
+      },
+      {
+        "showDate": true,
+        "songName": "虹",
+        "singer": "菅田將暉",
+        "songTime": "01:22:52",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=4972s"
+      },
+      {
+        "showDate": true,
+        "songName": "プラスティック・ラブ",
+        "singer": "竹内まりや",
+        "songTime": "01:29:18",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=5358s"
+      },
+      {
+        "showDate": true,
+        "songName": "燈",
+        "singer": "崎山蒼志",
+        "songTime": "01:35:52",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=5752s"
+      },
+      {
+        "showDate": true,
+        "songName": "裸の心",
+        "singer": "Aimyon(愛繆)",
+        "songTime": "01:40:46",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=6046s"
+      },
+      {
+        "showDate": true,
+        "songName": "グレイ",
+        "singer": "sajou no hana",
+        "songTime": "01:48:14",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=6494s"
+      },
+      {
+        "showDate": true,
+        "songName": "逆光",
+        "singer": "Ado",
+        "songTime": "01:54:56",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=6896s"
+      },
+      {
+        "showDate": true,
+        "songName": "Oz.",
+        "singer": "yama",
+        "songTime": "02:02:04",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=7324s"
+      },
+      {
+        "showDate": true,
+        "songName": "晴る",
+        "singer": "ヨルシカ",
+        "songTime": "02:11:48",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=7908s"
+      },
+      {
+        "showDate": true,
+        "songName": "my strange addiction",
+        "singer": "Billie Eilish",
+        "songTime": "02:18:08",
+        "songLink": "https://www.youtube.com/watch?v=Ip8_tQlqXrw&t=8288s"
+      }
+    ]
+  },
+  {
+    date: "2024/3/14",
+    streamName: "【 縱型配信】白色情人節來唱點老情歌💕！！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "彩虹的微笑",
+        "singer": "王心凌",
+        "songTime": "00:09:31",
+        "songLink": "https://www.youtube.com/watch?v=qGwQDp-zgf4&t=571s"
+      },
+      {
+        "showDate": true,
+        "songName": "曖昧",
+        "singer": "楊丞琳",
+        "songTime": "00:15:33",
+        "songLink": "https://www.youtube.com/watch?v=qGwQDp-zgf4&t=933s"
+      },
+      {
+        "showDate": true,
+        "songName": "沒有如果",
+        "singer": "梁靜茹",
+        "songTime": "00:27:28",
+        "songLink": "https://www.youtube.com/watch?v=qGwQDp-zgf4&t=1648s"
+      },
+      {
+        "showDate": true,
+        "songName": "99次我愛他",
+        "singer": "元若藍",
+        "songTime": "00:38:11",
+        "songLink": "https://www.youtube.com/watch?v=qGwQDp-zgf4&t=2291s"
+      },
+      {
+        "showDate": true,
+        "songName": "葉子",
+        "singer": "阿桑",
+        "songTime": "00:47:53",
+        "songLink": "https://www.youtube.com/watch?v=qGwQDp-zgf4&t=2873s"
+      },
+      {
+        "showDate": true,
+        "songName": "你要的愛",
+        "singer": "戴佩妮",
+        "songTime": "01:00:13",
+        "songLink": "https://www.youtube.com/watch?v=qGwQDp-zgf4&t=3613s"
+      },
+      {
+        "showDate": true,
+        "songName": "怎麼辦",
+        "singer": "S.H.E",
+        "songTime": "01:08:47",
+        "songLink": "https://www.youtube.com/watch?v=qGwQDp-zgf4&t=4127s"
+      },
+      {
+        "showDate": true,
+        "songName": "我愛他",
+        "singer": "丁噹",
+        "songTime": "01:37:29",
+        "songLink": "https://www.youtube.com/watch?v=qGwQDp-zgf4&t=5849s"
+      },
+      {
+        "showDate": true,
+        "songName": "遺失的美好",
+        "singer": "張韶涵",
+        "songTime": "01:47:09",
+        "songLink": "https://www.youtube.com/watch?v=qGwQDp-zgf4&t=6429s"
+      },
+      {
+        "showDate": true,
+        "songName": "遺失的美好 (有心理準備的清唱!)",
+        "singer": "張韶涵",
+        "songTime": "01:53:11",
+        "songLink": "https://www.youtube.com/watch?v=qGwQDp-zgf4&t=6791s"
+      }
+    ]
+  },
+  {
+    date: "2024/2/17",
+    streamName: "【 #江湖告急！#兩萬訂閱耐久】心碎補班日...今天來唱點心碎ㄉ歌💔！！",
+    showList: true,
+    showDate: true,
+    songList: [
+      {
+        "showDate": true,
+        "songName": "尋人啟事",
+        "singer": "徐佳瑩",
+        "songTime": "00:34:14",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=2054s"
+      },
+      {
+        "showDate": true,
+        "songName": "失戀無罪",
+        "singer": "A-Lin",
+        "songTime": "00:42:17",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=2537s"
+      },
+      {
+        "showDate": true,
+        "songName": "Wherever You Are",
+        "singer": "ONE OK ROCK",
+        "songTime": "00:55:40",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=3340s"
+      },
+      {
+        "showDate": true,
+        "songName": "你啊你啊",
+        "singer": "魏如萱",
+        "songTime": "01:02:36",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=3756s"
+      },
+      {
+        "showDate": true,
+        "songName": "親愛的那不是愛情",
+        "singer": "張韶涵",
+        "songTime": "01:11:04",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=4264s"
+      },
+      {
+        "showDate": true,
+        "songName": "人質",
+        "singer": "張惠妹",
+        "songTime": "01:16:21",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=4581s"
+      },
+      {
+        "showDate": true,
+        "songName": "I beg you",
+        "singer": "Aimer",
+        "songTime": "01:21:38",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=4898s"
+      },
+      {
+        "showDate": true,
+        "songName": "車站",
+        "singer": "張秀卿",
+        "songTime": "01:39:48",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=5988s"
+      },
+      {
+        "showDate": true,
+        "songName": "你敢不敢",
+        "singer": "徐佳瑩",
+        "songTime": "01:45:54",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=6354s"
+      },
+      {
+        "showDate": true,
+        "songName": "我們一樣可惜",
+        "singer": "好樂團",
+        "songTime": "01:51:37",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=6697s"
+      },
+      {
+        "showDate": true,
+        "songName": "貴方解剖純愛歌~死ね~",
+        "singer": "aimyon",
+        "songTime": "02:05:13",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=7513s"
+      },
+      {
+        "showDate": true,
+        "songName": "Still Into You",
+        "singer": "Paramore",
+        "songTime": "02:11:28",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=7888s"
+      },
+      {
+        "showDate": true,
+        "songName": "你不知道的事",
+        "singer": "王力宏",
+        "songTime": "02:17:13",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=8233s"
+      },
+      {
+        "showDate": true,
+        "songName": "六等星の夜",
+        "singer": "Aimer",
+        "songTime": "02:23:08",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=8588s"
+      },
+      {
+        "showDate": true,
+        "songName": "wish you were gay",
+        "singer": "Billie Eilish",
+        "songTime": "02:31:25",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=9085s"
+      },
+      {
+        "showDate": true,
+        "songName": "Someone Like You",
+        "singer": "Adele",
+        "songTime": "02:36:03",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=9363s"
+      },
+      {
+        "showDate": true,
+        "songName": "夢一場",
+        "singer": "那英",
+        "songTime": "02:41:46",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=9706s"
+      },
+      {
+        "showDate": true,
+        "songName": "我想我不會愛你",
+        "singer": "田馥甄",
+        "songTime": "02:47:09",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=10029s"
+      },
+      {
+        "showDate": true,
+        "songName": "Creep",
+        "singer": "Radiohead",
+        "songTime": "02:55:44",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=10544s"
+      },
+      {
+        "showDate": true,
+        "songName": "斑馬，斑馬",
+        "singer": "宋冬野",
+        "songTime": "03:01:56",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=10916s"
+      },
+      {
+        "showDate": true,
+        "songName": "永遠のあくる日",
+        "singer": "Ado",
+        "songTime": "03:07:42",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=11262s"
+      },
+      {
+        "showDate": true,
+        "songName": "我只在乎你",
+        "singer": "鄧麗君",
+        "songTime": "03:13:17",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=11597s"
+      },
+      {
+        "showDate": true,
+        "songName": "他們說我是沒有用的年輕人",
+        "singer": "好樂團",
+        "songTime": "03:20:58",
+        "songLink": "https://www.youtube.com/watch?v=htXHivqCp3Y&t=12058s"
+      }
+    ]
+  },
+  {
     date: "2024/1/19",
     streamName: "【縱型深夜歌枠】日文片假名限定歌回💜今天可以達到1.9萬嗎！！！",
     showList: true,
@@ -2066,49 +2564,49 @@ export default [
       {
         "showDate": true,
         "songName": "小さな恋のうた",
-        "singer": "新垣結衣",
+        "singer": "MONGOL800",
         "songTime": "01:20:17",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=4817s"
       },
       {
         "showDate": true,
         "songName": "強風オールバック",
-        "singer": "歌愛ユキ",
+        "singer": "Yukopi",
         "songTime": "01:29:51",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=5391s"
       },
       {
         "showDate": true,
         "songName": "強風オールバック (1.25倍速)",
-        "singer": "歌愛ユキ",
+        "singer": "Yukopi",
         "songTime": "01:34:35",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=5675s"
       },
       {
         "showDate": true,
         "songName": "強風オールバック (1.5倍速)",
-        "singer": "歌愛ユキ",
+        "singer": "Yukopi",
         "songTime": "01:36:53",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=5813s"
       },
       {
         "showDate": true,
         "songName": "強風オールバック (2倍速)",
-        "singer": "歌愛ユキ",
+        "singer": "Yukopi",
         "songTime": "01:42:31",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=6151s"
       },
       {
         "showDate": true,
         "songName": "強風オールバック (1.75倍速)",
-        "singer": "歌愛ユキ",
+        "singer": "Yukopi",
         "songTime": "01:46:21",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=6381s"
       },
       {
         "showDate": true,
         "songName": "強風オールバック (0.5倍速)",
-        "singer": "歌愛ユキ",
+        "singer": "Yukopi",
         "songTime": "01:49:17",
         "songLink": "https://www.youtube.com/watch?v=la4i8O2Y6o8&t=6557s"
       },
