@@ -1,5 +1,273 @@
 export default [
   {
+    "date": "2024/07/22",
+    "streamName": "【夏日歌回】捏嚕的夏天印象曲歌回🎤✨夏天你會想到什麼歌呢？",
+    "showList": true,
+    "showDate": true,
+    "songList": [
+      {
+        "showDate": true,
+        "songName": "マリーゴールド",
+        "singer": "あいみょん",
+        "songTime": "00:10:28",
+        "songLink": "https://www.youtube.com/watch?v=c5eHSPMzDtw&t=628"
+      },
+      {
+        "showDate": true,
+        "songName": "Ref:rain",
+        "singer": "Aimer",
+        "songTime": "00:22:15",
+        "songLink": "https://www.youtube.com/watch?v=c5eHSPMzDtw&t=1335"
+      },
+      {
+        "showDate": true,
+        "songName": "Firework",
+        "singer": "Katy Perry",
+        "songTime": "00:33:51",
+        "songLink": "https://www.youtube.com/watch?v=c5eHSPMzDtw&t=2031"
+      },
+      {
+        "showDate": true,
+        "songName": "夏祭り",
+        "singer": "JITTERIN' JINN",
+        "songTime": "00:48:23",
+        "songLink": "https://www.youtube.com/watch?v=c5eHSPMzDtw&t=2903"
+      },
+      {
+        "showDate": true,
+        "songName": "summertime",
+        "singer": "cinnamons × evening cinema",
+        "songTime": "00:59:44",
+        "songLink": "https://www.youtube.com/watch?v=c5eHSPMzDtw&t=3584"
+      },
+      {
+        "showDate": true,
+        "songName": "盛夏光年",
+        "singer": "五月天",
+        "songTime": "01:07:11",
+        "songLink": "https://www.youtube.com/watch?v=c5eHSPMzDtw&t=4031"
+      },
+      {
+        "showDate": true,
+        "songName": "secret base ～君がくれたもの～",
+        "singer": "ZONE《あの日見た花の名前を僕達はまだ知らない。》",
+        "songTime": "01:12:33",
+        "songLink": "https://www.youtube.com/watch?v=c5eHSPMzDtw&t=4353"
+      },
+      {
+        "showDate": true,
+        "songName": "真夏の夜の匂いがする",
+        "singer": "あいみょん",
+        "songTime": "01:31:21",
+        "songLink": "https://www.youtube.com/watch?v=c5eHSPMzDtw&t=5481"
+      },
+      {
+        "showDate": true,
+        "songName": "向日葵",
+        "singer": "Ado",
+        "songTime": "01:45:13",
+        "songLink": "https://www.youtube.com/watch?v=c5eHSPMzDtw&t=6313"
+      },
+      {
+        "showDate": true,
+        "songName": "寧夏",
+        "singer": "梁靜茹",
+        "songTime": "01:55:54",
+        "songLink": "https://www.youtube.com/watch?v=c5eHSPMzDtw&t=6954"
+      }
+    ]
+  },
+  {
+    "date": "2024/06/27",
+    "streamName": "【週年慶祝兒歌歌回】小捏嚕一歲啦！！今天要唱很多小時候ㄉ歌🎤",
+    "showList": true,
+    "showDate": true,
+    "songList": [
+      {
+        "showDate": true,
+        "songName": "釣魚記",
+        "songTime": "00:13:53",
+        "songLink": "https://www.youtube.com/watch?v=iZl9TuWqpg0&t=833"
+      },
+      {
+        "showDate": true,
+        "songName": "球球不見了",
+        "songTime": "00:25:00",
+        "songLink": "https://www.youtube.com/watch?v=iZl9TuWqpg0&t=1500"
+      },
+      {
+        "showDate": true,
+        "songName": "卡加布列島",
+        "songTime": "00:31:28",
+        "songLink": "https://www.youtube.com/watch?v=iZl9TuWqpg0&t=1888"
+      },
+      {
+        "showDate": true,
+        "songName": "哈啦嘎啦蹦",
+        "songTime": "00:41:16",
+        "songLink": "https://www.youtube.com/watch?v=iZl9TuWqpg0&t=2476"
+      },
+      {
+        "showDate": true,
+        "songName": "可愛的佩佩",
+        "songTime": "00:49:44",
+        "songLink": "https://www.youtube.com/watch?v=iZl9TuWqpg0&t=2984"
+      },
+      {
+        "showDate": true,
+        "songName": "寂寞安親班",
+        "songTime": "01:07:42",
+        "songLink": "https://www.youtube.com/watch?v=iZl9TuWqpg0&t=4062"
+      },
+      {
+        "showDate": true,
+        "songName": "捏泥巴",
+        "songTime": "01:17:21",
+        "songLink": "https://www.youtube.com/watch?v=iZl9TuWqpg0&t=4641"
+      },
+      {
+        "showDate": true,
+        "songName": "火車嘟嘟嘟",
+        "songTime": "01:26:11",
+        "songLink": "https://www.youtube.com/watch?v=iZl9TuWqpg0&t=5171"
+      }
+    ]
+  },
+  {
+    "date": "2024/05/26",
+    "streamName": "【哄睡歌回】雖然我不相信好好的禮拜六誰會晚上十二點前睡！😈 ",
+    "showList": true,
+    "showDate": true,
+    "songList": [
+      {
+        "showDate": true,
+        "songName": "月亮代表我的心",
+        "singer": "鄧麗君",
+        "songTime": "00:07:21",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=441"
+      },
+      {
+        "showDate": true,
+        "songName": "Creep",
+        "singer": "Radiohead",
+        "songTime": "00:15:50",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=950"
+      },
+      {
+        "showDate": true,
+        "songName": "レオ",
+        "singer": "優里",
+        "songTime": "00:21:42",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=1302"
+      },
+      {
+        "showDate": true,
+        "songName": "酔いどれ知らず",
+        "singer": "Kanaria",
+        "songTime": "00:27:31",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=1651"
+      },
+      {
+        "showDate": true,
+        "songName": "bury a friend",
+        "singer": "Billie Eilish",
+        "songTime": "00:33:34",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=2014"
+      },
+      {
+        "showDate": true,
+        "songName": "祝福",
+        "singer": "YOASOBI",
+        "songTime": "00:38:13",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=2293"
+      },
+      {
+        "showDate": true,
+        "songName": "燈",
+        "singer": "崎山蒼志",
+        "songTime": "00:43:00",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=2580"
+      },
+      {
+        "showDate": true,
+        "songName": "晩餐歌",
+        "singer": "tuki.",
+        "songTime": "00:50:19",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=3019"
+      },
+      {
+        "showDate": true,
+        "songName": "紅豆",
+        "singer": "王菲",
+        "songTime": "00:54:51",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=3291"
+      },
+      {
+        "showDate": true,
+        "songName": "你啊你啊",
+        "singer": "魏如萱",
+        "songTime": "01:01:37",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=3697"
+      },
+      {
+        "showDate": true,
+        "songName": "克卜勒",
+        "singer": "孫燕姿",
+        "songTime": "01:17:37",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=4657"
+      },
+      {
+        "showDate": true,
+        "songName": "致姍姍來遲的你",
+        "singer": "阿肆",
+        "songTime": "01:22:33",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=4953"
+      },
+      {
+        "showDate": true,
+        "songName": "晚安大小姐",
+        "singer": "ASMRZ",
+        "songTime": "01:32:53",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=5573"
+      },
+      {
+        "showDate": true,
+        "songName": "晚安大小姐 (捏哥)",
+        "singer": "ASMRZ",
+        "songTime": "01:38:47",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=5927"
+      },
+      {
+        "showDate": true,
+        "songName": "香格里拉",
+        "singer": "魏如萱",
+        "songTime": "01:50:39",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=6639"
+      },
+      {
+        "showDate": true,
+        "songName": "陪妳過假日",
+        "singer": "Leo王",
+        "songTime": "01:57:04",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=7024"
+      },
+      {
+        "showDate": true,
+        "songName": "真夜中のドア〜Stay With Me",
+        "singer": "松原みき",
+        "songTime": "02:04:09",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=7449"
+      },
+      {
+        "showDate": true,
+        "songName": "プラスティック・ラブ",
+        "singer": "竹内まりや",
+        "songTime": "02:10:53",
+        "songLink": "https://www.youtube.com/watch?v=Cizr5nSneTg&t=7853"
+      }
+    ]
+  },
+  {
     date: "2024/4/24",
     streamName: "【捐款點歌回】泥捐款我唱歌！一起來讓世界多一點愛💜",
     showList: true,
