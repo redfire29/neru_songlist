@@ -1,12 +1,12 @@
 var array = [];
-var splitWord = ' - '
+var splitWord = '/'
 var getIndex = 0;
 document.querySelectorAll('.ytd-expander#content #content-text')[getIndex].querySelectorAll('a').forEach((item, index) => {
     var songlist = document.querySelectorAll('.ytd-expander#content #content-text')[getIndex].querySelectorAll('span')[0].textContent.split('\n')
     var data = {
         "showDate": true,
-        "songName": songlist[index+1].split(splitWord)[1],
-        "singer": songlist[index+1].split(splitWord)[0],
+        "songName": songlist[index+0].split(splitWord)[1],
+        "singer": songlist[index+0].split(splitWord)[0].split(item.textContent)[1],
         "songTime": item.textContent,
         "songLink": item.href,
     };

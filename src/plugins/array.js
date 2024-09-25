@@ -1,5 +1,494 @@
 export default [
   {
+    "date": "2024/09/20",
+    "streamName": "【中秋歌回】只要還是九月就都可以過中秋吧😈",
+    "showList": true,
+    "showDate": true,
+    "songList": [
+      {
+        "showDate": true,
+        "songName": "カタオモイ",
+        "singer": "Aimer",
+        "songTime": "11:48",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=708s"
+      },
+      {
+        "showDate": true,
+        "songName": "初戀",
+        "singer": "川島茉樹代",
+        "songTime": "19:18",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=1158s"
+      },
+      {
+        "showDate": true,
+        "songName": "月亮代表我的心",
+        "singer": "鄧麗君",
+        "songTime": "37:40",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=2260s"
+      },
+      {
+        "showDate": true,
+        "songName": "mona(CV：夏川椎菜)",
+        "singer": "ファンサ",
+        "songTime": "51:07",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=3067s"
+      },
+      {
+        "showDate": true,
+        "songName": "ただ君に晴れ",
+        "singer": "ヨルシカ",
+        "songTime": "58:54",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=3534s"
+      },
+      {
+        "showDate": true,
+        "songName": "披星戴月的想你",
+        "singer": "告五人",
+        "songTime": "1:03:47",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=3827s"
+      },
+      {
+        "showDate": true,
+        "songName": "都是weather你",
+        "singer": "JOYCE就以斯·楊子平",
+        "songTime": "1:11:09",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=4269s"
+      },
+      {
+        "showDate": true,
+        "songName": "晩餐歌",
+        "singer": "tuki.",
+        "songTime": "1:17:26",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=4646s"
+      },
+      {
+        "showDate": true,
+        "songName": "克卜勒",
+        "singer": "孫燕姿",
+        "songTime": "1:28:58",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=5338s"
+      },
+      {
+        "showDate": true,
+        "songName": "Talking To The Moon",
+        "singer": "Bruno Mars",
+        "songTime": "1:39:24",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=5964s"
+      },
+      {
+        "showDate": true,
+        "songName": "Wherever you are",
+        "singer": "ONE OK ROCK",
+        "songTime": "1:47:07",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=6427s"
+      },
+      {
+        "showDate": true,
+        "songName": "粛聖!! ロリ神レクイエム☆",
+        "singer": "しぐれうい（9さい）",
+        "songTime": "1:54:17",
+        "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=6857s"
+      }
+    ]
+  },
+  {
+    "date": "2024/09/04",
+    "streamName": "【出道33個月紀念歌回】33是最棒的數字對嗎😈一起來聽歌幫阿捏慶祝～～🎈",
+    "showList": true,
+    "showDate": true,
+    "songList": [
+      {
+        "showDate": true,
+        "songName": "告白氣球",
+        "singer": "周杰倫",
+        "songTime": "00:11:27",
+        "songLink": "https://www.youtube.com/watch?v=qFoWv_TBFA0&t=687s"
+      },
+      {
+        "showDate": true,
+        "songName": "Make",
+        "singer": "Adele",
+        "songTime": "00:17:38",
+        "songLink": "https://www.youtube.com/watch?v=qFoWv_TBFA0&t=1058s"
+      },
+      {
+        "showDate": true,
+        "songName": "うっせぇわ",
+        "singer": "Ado",
+        "songTime": "00:26:14",
+        "songLink": "https://www.youtube.com/watch?v=qFoWv_TBFA0&t=1574s"
+      },
+      {
+        "showDate": true,
+        "songName": "阿修羅ちゃん",
+        "singer": "Ado",
+        "songTime": "00:38:06",
+        "songLink": "https://www.youtube.com/watch?v=qFoWv_TBFA0&t=2286s"
+      },
+      {
+        "showDate": true,
+        "songName": "斜陽",
+        "singer": "ヨルシカ",
+        "songTime": "00:47:20",
+        "songLink": "https://www.youtube.com/watch?v=qFoWv_TBFA0&t=2840s"
+      },
+      {
+        "showDate": true,
+        "songName": "Yesterday",
+        "singer": "The Beatles",
+        "songTime": "00:59:03",
+        "songLink": "https://www.youtube.com/watch?v=qFoWv_TBFA0&t=3543s"
+      },
+      {
+        "showDate": true,
+        "songName": "群青",
+        "singer": "YOASOBI",
+        "songTime": "01:08:13",
+        "songLink": "https://www.youtube.com/watch?v=qFoWv_TBFA0&t=4093s"
+      },
+      {
+        "showDate": true,
+        "songName": "First",
+        "singer": "宇多田ヒカル",
+        "songTime": "01:22:41",
+        "songLink": "https://www.youtube.com/watch?v=qFoWv_TBFA0&t=4961s"
+      },
+      {
+        "showDate": true,
+        "songName": "祝福",
+        "singer": "YOASOBI",
+        "songTime": "01:35:51",
+        "songLink": "https://www.youtube.com/watch?v=qFoWv_TBFA0&t=5751s"
+      },
+      {
+        "showDate": true,
+        "songName": "買你",
+        "singer": "魏如萱",
+        "songTime": "01:43:20",
+        "songLink": "https://www.youtube.com/watch?v=qFoWv_TBFA0&t=6200s"
+      }
+    ]
+  },
+  {
+    "date": "2024/08/31",
+    "streamName": "【深夜突發歌回】回家唱點歌！看看牙齒會不會止痛🦷😣",
+    "showList": true,
+    "showDate": true,
+    "songList": [
+      {
+        "showDate": true,
+        "songName": "Love",
+        "singer": "Ellie Goulding",
+        "songTime": "00:07:34",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=454s"
+      },
+      {
+        "showDate": true,
+        "songName": "漢堡包",
+        "singer": "鄧福如AFÜ",
+        "songTime": "00:22:49",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=1369s"
+      },
+      {
+        "showDate": true,
+        "songName": "34+35",
+        "singer": "Ariana Grande",
+        "songTime": "00:31:49",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=1909s"
+      },
+      {
+        "showDate": true,
+        "songName": "Everything",
+        "singer": "Taylor Swift ft. Ed Sheeran",
+        "songTime": "00:36:21",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=2181s"
+      },
+      {
+        "showDate": true,
+        "songName": "千本桜",
+        "singer": "黒うさP",
+        "songTime": "00:42:16",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=2536s"
+      },
+      {
+        "showDate": true,
+        "songName": "オトナブルー",
+        "singer": "ATARASHII GAKKO!",
+        "songTime": "00:50:23",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=3023s"
+      },
+      {
+        "showDate": true,
+        "songName": "Mamma",
+        "singer": "Abba",
+        "songTime": "00:56:51",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=3411s"
+      },
+      {
+        "showDate": true,
+        "songName": "Can't",
+        "singer": "Frankie Vailli",
+        "songTime": "01:10:38",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=4238s"
+      },
+      {
+        "showDate": true,
+        "songName": "Cups",
+        "singer": "Anna Kendrick (Pitch Perfect’s “When I’m Gone”)",
+        "songTime": "01:15:39",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=4539s"
+      },
+      {
+        "showDate": true,
+        "songName": "尋人啟事",
+        "singer": "徐佳瑩",
+        "songTime": "01:20:55",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=4855s"
+      },
+      {
+        "showDate": true,
+        "songName": "Supernatural",
+        "singer": "NewJeans (뉴진스)",
+        "songTime": "01:32:42",
+        "songLink": "https://www.youtube.com/watch?v=O_fHPj0BDOc&t=5562s"
+      }
+    ]
+  },
+  {
+    "date": "2024/08/23",
+    "streamName": "【晚安歌回】辛苦了！週五晚上來聽聽歌放鬆一下吧💗",
+    "showList": true,
+    "showDate": true,
+    "songList": [
+      {
+        "showDate": true,
+        "songName": "指望",
+        "singer": "郁可唯",
+        "songTime": "00:09:39",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=579s"
+      },
+      {
+        "showDate": true,
+        "songName": "下一個天亮",
+        "singer": "郭靜",
+        "songTime": "00:23:23",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=1403s"
+      },
+      {
+        "showDate": true,
+        "songName": "甜秘密",
+        "singer": "蔡依林",
+        "songTime": "00:29:52",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=1792s"
+      },
+      {
+        "showDate": true,
+        "songName": "向日葵",
+        "singer": "Ado",
+        "songTime": "00:36:24",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=2184s"
+      },
+      {
+        "showDate": true,
+        "songName": "ドラえもんのうた",
+        "singer": "大杉久美子",
+        "songTime": "00:41:52",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=2512s"
+      },
+      {
+        "showDate": true,
+        "songName": "天黑黑",
+        "singer": "孫燕姿",
+        "songTime": "00:55:43",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=3343s"
+      },
+      {
+        "showDate": true,
+        "songName": "不曾回來過",
+        "singer": "李千娜",
+        "songTime": "01:00:52",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=3652s"
+      },
+      {
+        "showDate": true,
+        "songName": "年輪說",
+        "singer": "楊丞琳",
+        "songTime": "01:09:25",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=4165s"
+      },
+      {
+        "showDate": true,
+        "songName": "Yellow",
+        "singer": "Coldplay",
+        "songTime": "01:25:08",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=5108s"
+      },
+      {
+        "showDate": true,
+        "songName": "沿海地帶",
+        "singer": "弦子",
+        "songTime": "01:35:08",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=5708s"
+      },
+      {
+        "showDate": true,
+        "songName": "Show唱",
+        "singer": "Ado",
+        "songTime": "01:43:48",
+        "songLink": "https://www.youtube.com/watch?v=nPUIAVMQukM&t=6228s"
+      }
+    ]
+  },
+  {
+    "date": "2024/08/10",
+    "streamName": "【七夕歌回】用中文情歌陪你過夏天的情人節✨💗 ",
+    "showList": true,
+    "showDate": true,
+    "songList": [
+      {
+        "showDate": true,
+        "songName": "曖昧",
+        "singer": "楊丞琳",
+        "songTime": "00:25:37",
+        "songLink": "https://www.youtube.com/watch?v=Sj_-T3hsCgA&t=1537s"
+      },
+      {
+        "showDate": true,
+        "songName": "九十九次我愛他",
+        "singer": "元若藍",
+        "songTime": "00:31:24",
+        "songLink": "https://www.youtube.com/watch?v=Sj_-T3hsCgA&t=1884s"
+      },
+      {
+        "showDate": true,
+        "songName": "含淚跳恰恰",
+        "singer": "謝金燕",
+        "songTime": "00:44:12",
+        "songLink": "https://www.youtube.com/watch?v=Sj_-T3hsCgA&t=2652s"
+      },
+      {
+        "showDate": true,
+        "songName": "有你的快樂",
+        "singer": "王若琳",
+        "songTime": "00:57:04",
+        "songLink": "https://www.youtube.com/watch?v=Sj_-T3hsCgA&t=3424s"
+      },
+      {
+        "showDate": true,
+        "songName": "摸ㄝ摸ㄝ",
+        "singer": "勸世寶貝喵喵",
+        "songTime": "01:01:41",
+        "songLink": "https://www.youtube.com/watch?v=Sj_-T3hsCgA&t=3701s"
+      },
+      {
+        "showDate": true,
+        "songName": "觸電",
+        "singer": "芭比",
+        "songTime": "01:06:27",
+        "songLink": "https://www.youtube.com/watch?v=Sj_-T3hsCgA&t=3987s"
+      },
+      {
+        "showDate": true,
+        "songName": "不藥而癒",
+        "singer": "郭靜",
+        "songTime": "01:11:29",
+        "songLink": "https://www.youtube.com/watch?v=Sj_-T3hsCgA&t=4289s"
+      },
+      {
+        "showDate": true,
+        "songName": "ドライフラワー",
+        "singer": "優里",
+        "songTime": "01:18:21",
+        "songLink": "https://www.youtube.com/watch?v=Sj_-T3hsCgA&t=4701s"
+      }
+    ]
+  },
+  {
+    "date": "2024/07/26",
+    "streamName": "【ACG主題歌回】經典！熱門！動畫歌一次聽個夠꒰๑˃꒵˂꒱◞ ♪⋆ฺ｡🎤✨",
+    "showList": true,
+    "showDate": true,
+    "songList": [
+      {
+        "showDate": true,
+        "songName": "ちゅ、多様性。",
+        "singer": "ano《チェンソーマン》《鏈鋸人》",
+        "songTime": "00:13:11",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=791s"
+      },
+      {
+        "showDate": true,
+        "songName": "サンビカ",
+        "singer": "藍井エイル《KILL la KILL》",
+        "songTime": "00:21:14",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=1274s"
+      },
+      {
+        "showDate": true,
+        "songName": "空色デイス",
+        "singer": "中川翔子《天元突破グレンラガン》《天元突破 紅蓮螺巖》",
+        "songTime": "00:34:29",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=2069s"
+      },
+      {
+        "showDate": true,
+        "songName": "アイドル",
+        "singer": "YOASOBI《推しの子》《我推的孩子》",
+        "songTime": "00:42:53",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=2573s"
+      },
+      {
+        "showDate": true,
+        "songName": "more",
+        "singer": "羊文学《呪術廻戦》《咒術迴戰》",
+        "songTime": "00:59:28",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=3568s"
+      },
+      {
+        "showDate": true,
+        "songName": "レイドバックジャーニー",
+        "singer": "キミのね《ゆるキャン△》《搖曳露營△》",
+        "songTime": "01:07:10",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=4030s"
+      },
+      {
+        "showDate": true,
+        "songName": "One",
+        "singer": "宇多田ヒカル《ヱヴァンゲリヲン新劇場版》《福音戰士新劇場版》",
+        "songTime": "01:13:11",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=4391s"
+      },
+      {
+        "showDate": true,
+        "songName": "コノユビトマレ",
+        "singer": "JUNNA《賭ケグルイ××》《狂賭之淵××》",
+        "songTime": "01:23:17",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=4997s"
+      },
+      {
+        "showDate": true,
+        "songName": "強風オールバック",
+        "singer": "Yukopi",
+        "songTime": "01:31:25",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=5485s"
+      },
+      {
+        "showDate": true,
+        "songName": "ハム太郎とっとこうた",
+        "singer": "《とっとこハム太郎》《哈姆太郎》",
+        "songTime": "01:38:53",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=5933s"
+      },
+      {
+        "showDate": true,
+        "songName": "恋ノ行方",
+        "singer": "あかせあかり《その着せ替え人形は恋をする》《戀上換裝娃娃》",
+        "songTime": "01:45:52",
+        "songLink": "https://www.youtube.com/watch?v=Taie75nwJdk&t=6352s"
+      }
+    ]
+  },
+  {
     "date": "2024/07/22",
     "streamName": "【夏日歌回】捏嚕的夏天印象曲歌回🎤✨夏天你會想到什麼歌呢？",
     "showList": true,
