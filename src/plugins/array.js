@@ -3744,8 +3744,8 @@ export default [
       },
       {
         "showDate": true,
-        "songName": "もっと",
-        "singer": "aiko",
+        "songName": "ファンサ",
+        "singer": "mona(CV：夏川椎菜)【HoneyWorks】",
         "songTime": "02:07:48",
         "songLink": "https://www.youtube.com/watch?v=kELysZjqCfQ&t=7668s"
       },
