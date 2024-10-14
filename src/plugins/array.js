@@ -28,8 +28,8 @@ export default [
       },
       {
         "showDate": true,
-        "songName": "mona(CV：夏川椎菜)",
-        "singer": "ファンサ",
+        "songName": "ファンサ",
+        "singer": "mona(CV：夏川椎菜)",
         "songTime": "51:07",
         "songLink": "https://www.youtube.com/watch?v=Kr22BjE0OTo&t=3067s"
       },
